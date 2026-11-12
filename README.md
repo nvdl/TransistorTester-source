@@ -1,9 +1,15 @@
+# About this fork
+As of now, this fork target MK-328 tester specifically.
+
+# MK-328 Tester
+![mk-328-1](images/mk-328-1.jpg?raw=true "MK-328-1")
+
 # TransistorTester-source
-Sources for building the firmware for various Transistor Tester models.  
+Sources for building the firmware for various Transistor Tester models.
 
 The sources for the "k" firmware are in the trunk folder.
 The Makefiles for different models as well as the appropriate firmware (.hex and .eep)
-are located in subdirectories of trunk. 
+are located in subdirectories of trunk.
 The picture-link.pdf file may help you to find the correct subdirectory,
 when opened with xreader (Linux) or with the Adobe Acrobat Reader (Windows).
 
@@ -12,7 +18,7 @@ as compressed tar archives.
 
 At this location here you will only find the sources.
 The latest version of the documentation can be found at
-https://github.com/kubi48/TransistorTester-documentation. 
+https://github.com/kubi48/TransistorTester-documentation.
 
 You can also find older versions of software and documentation at:
 https://github.com/kubi48/TransistorTester-old-versions

@@ -6,9 +6,7 @@
 PROJECT = mega328_MK-328
 
 CC = avr-gcc
-
 CPP = avr-g++
-
 CFLAGS = -Wall
 
 # ********************** Änderbare Flags zur Configuration des Transistortesters
@@ -66,7 +64,7 @@ CFLAGS += -DNO_ICONS_DEMO
 # CFLAGS += -DROTARY_2_PIN=PD2
 
 # Select your language:
-# Available languages are: LANG_BRASIL, LANG_CZECH, LANG_DANISH, LANG_DUTCH, LANG_ENGLISH, LANG_GERMAN, 
+# Available languages are: LANG_BRASIL, LANG_CZECH, LANG_DANISH, LANG_DUTCH, LANG_ENGLISH, LANG_GERMAN,
 #                          LANG_FRANCAIS, LANG_HUNGARIAN,
 #                          LANG_ITALIAN,LANG_LITHUANIAN, LANG_POLISH, LANG_RUSSIAN , LANG_SLOVAK, LANG_SLOVENE,
 #                          LANG_SPANISH, LANG_UKRAINIAN
@@ -86,7 +84,7 @@ UI_LANGUAGE = LANG_ENGLISH
 CFLAGS += -DFOUR_LINE_LCD
 #CFLAGS += -DLCD_LINE_LENGTH=20
 
-# Some character display types have a different DD_RAM start adress for line 1. 
+# Some character display types have a different DD_RAM start adress for line 1.
 # Usually the DD_RAM start address for line 1 is 0.
 # You can specify a different start address with the option DD_RAM_OFFSET
 #DD_RAM_OFFSET=128
@@ -95,7 +93,6 @@ CFLAGS += -DFOUR_LINE_LCD
 # and WITH_ROTARY_SWITCH.
 # Without the PAGE_MODE option, the line cursor is fixed to line 3 and the text moves.
 #CFLAGS += -DPAGE_MODE
-
 
 # The LCD_ST7565 option must be set to support a 128x64 LCD graphics display
 # with ST7565 controller. It is controlled with a 1-bit interface (SPI or I2C)
@@ -106,12 +103,12 @@ WITH_LCD_ST7565 = 1
 #WITH_LCD_ST7565 = 1306
 
 # Normally the ST7565 controller is connected with a SPI 4-wire interface, but
-# you can enable a I2C interface with address 0x3c for the SSD1306 controller 
+# you can enable a I2C interface with address 0x3c for the SSD1306 controller
 # by setting the LCD_INTERFACE_MODE to 2.
 # The SCL signal is available at PD5 (LCD-E, LCD-6), the SDA signal at PD2 (LCD-D6, LCD-13).
 # A pull up resistor of about 4.7k is required for both signals to 3.3V.
 # Please check, if your display module can also tolerate a 5V signal level.
-# For the ST7920 controller you can select the serial interface by setting the LCD_INTERFACE_MODE to 5 . 
+# For the ST7920 controller you can select the serial interface by setting the LCD_INTERFACE_MODE to 5 .
 # ST7920-RW <--> PD2 , ST7920-E <--> PD5 , ST7920-PSB <--> GND , ST7920-RS <--> VCC , ST7920-RST <--> VCC
 # For the PDF8814 controller you can also select a 3 for the 3-line serial interface with RS (D/C) as first bit.
 # The RS (data/command) signal at PD1 is used as chip enable SCE.
@@ -134,14 +131,18 @@ LCD_ST7565_RESISTOR_RATIO = 4
 
 # If LCD_ST7565 option is set to 1: Flip the display's horizontal direction.
 CFLAGS += -DLCD_ST7565_H_FLIP=0
+
 # With LCD_ST7565_H_OFFSET you can specify a horizontal pixel offset to the display window.
 # The controller knows 132 horizontal pixel, the window shows only 128 pixel.
 # OFFSET values can vary for the connected display type to 0, 2 or 4.
 CFLAGS += -DLCD_ST7565_H_OFFSET=0
+
 # If LCD_ST7565 option is set to 1: Flip the display's vertical direction
 CFLAGS += -DLCD_ST7565_V_FLIP=0
+
 # The contrast value can be predefined with the constant VOLUME_VALUE
-# for ST7565 controller the value can be between 0 and 63, for the SSD1306 0 to 255 can be selected.
+# For the ST7565 controller, the value can be between 0 and 63.
+# For the SSD1306 controller, the value can be between 0 and 255.
 CFLAGS += -DVOLUME_VALUE=55
 
 # You can specify a Y start line (vertical address) for the display output with the option LCD_ST7565_Y_START.
@@ -151,11 +152,11 @@ CFLAGS += -DVOLUME_VALUE=55
 # If option WITH_LCD_ST7565 is present one of the following fonts should be
 # choosen. With a font width below 8 more than 16 characters can be shown in one display line.
 #CFLAGS += -DFONT_5X8
-#CFLAGS += -DFONT_6X8
-#CFLAGS += -DFONT_8X8
-#CFLAGS += -DFONT_7X12
-CFLAGS += -DFONT_8X12thin
-#CFLAGS += -DFONT_8X14
+CFLAGS += -DFONT_6X8
+# CFLAGS += -DFONT_8X8
+# CFLAGS += -DFONT_7X12
+#CFLAGS += -DFONT_8X12thin
+# CFLAGS += -DFONT_8X14
 #CFLAGS += -DFONT_8X15
 #CFLAGS += -DFONT_8X16
 #CFLAGS += -DFONT_8X16thin
@@ -164,10 +165,11 @@ CFLAGS += -DFONT_8X12thin
 # you can select a special type with setting the ICON_TYPE.
 # Currently you can select 1 or 3 for one of two thin layouts for the icons.
 # You can also select two thick layouts for the icons by setting the ICON_TYPE to 2 or 0 (0=old style).
-CFLAGS += -DICON_TYPE=3
+CFLAGS += -DICON_TYPE=2
 
 # option BIG_TP makes the 123 for the test pins (beside the icon) bigger
 CFLAGS += -DBIG_TP
+
 # option INVERSE_TP inverse the 123 for the test pins (black on white)
 # the option INVERSE_TP disable the option BIG_TP because a frame is required
 #CFLAGS += -DINVERSE_TP
@@ -179,6 +181,7 @@ CFLAGS += -DBIG_TP
 # The WITH_SELFTEST option enables selftest function (only for mega168 or mega328) including the calibration.
 # Normally the mega168 uses selftest without T1 to T7 to enable both hFE measurements.
 CFLAGS += -DWITH_SELFTEST
+
 # You can enable the extended tests T1 to T7 for the atmega168 by selecting the  NO_COMMON_COLLECTOR_HFE  option.
 # The T1 to T7 tests are usefull to find problems with your tester.
 # You can also disable the extended tests T1 to T7 with the option NO_TEST_T1_T7 to accelerate the calibration
@@ -193,7 +196,7 @@ CFLAGS += -DWITH_SELFTEST
 
 # AUTO_CAL will enable the autocalibration of zero offset of capacity measurement and
 # also the port output resistance values will be find out in SELFTEST section.
-# With a external capacitor a additionally correction of reference voltage is figured out for 
+# With a external capacitor a additionally correction of reference voltage is figured out for
 # low capacity measurement and also for the AUTOSCALE_ADC measurement.
 # The AUTO_CAL option is only selectable for mega168 and mega328.
 CFLAGS += -DAUTO_CAL
@@ -206,12 +209,12 @@ CFLAGS += -DAUTO_CAL
 
 # You can extend the measurement feature by use of a sampling mode for the ADC converter
 # to extend the resolution of capacity measurement to about 0.01pF.
-# Setting the WITH_SamplinADC to 1 enables this feature for capacity values below 100pF.
+# Setting the WITH_SamplinADC to 1 enables this feature for capacitance values below 100pF.
 WITH_SamplingADC = 1
 
 # Option WITH_XTAL enables additional Xtal / Ceramic resonator tests.
 # Option can be set only together with SamplingADC=1 and OP_MHZ=16
-#CFLAGS += -DWITH_XTAL 
+#CFLAGS += -DWITH_XTAL
 # Option WITH_UJT enables additional tests for UJT (UniJunction Transistor)
 #CFLAGS += -DWITH_UJT
 # Option WITH_PUT enables additional tests for PUT (Programmable Unijunction Transistor)
@@ -221,17 +224,19 @@ CFLAGS += -DFET_Idss
 
 # The WITH_AUTO_REF option enables reading of internal REF-voltage to get factors for the Capacity measuring.
 CFLAGS += -DWITH_AUTO_REF
-# REF_C_KORR corrects the reference Voltage for capacity measurement (<40uF) and has mV units.
-# Greater values gives lower capacity results.
+
+# REF_C_KORR corrects the reference voltage for capacity measurement (<40uF) and has mV units.
+# Greater values give lower capacity results.
 CFLAGS += -DREF_C_KORR=12
-# REF_L_KORR corrects the reference Voltage for inductance measurement and has mV units.
+
+# REF_L_KORR corrects the reference voltage for inductance measurement and has mV units.
 CFLAGS += -DREF_L_KORR=40
+
 # C_H_KORR defines a correction of 0.1% units for big capacitor measurement.
 # Positive values will reduce measurement results.
 CFLAGS += -DC_H_KORR=0
 
-
-# The WITH_UART option enables the software UART  (TTL level output at Pin PC3, 26).
+# The WITH_UART option enables the software UART (TTL level output at Pin PC3, 26).
 # You can set WITH_UART to 2 to enable a special mode of serial output with line number in column 1.
 # If the option is deselected, PC3 can be used as external voltage input with a
 # 10:1 resistor divider.
@@ -246,12 +251,11 @@ CFLAGS += -DWITH_UART
 
 # For ATmega8/168/328 processor the option WITH_VEXT can only be set, if the PC3 pin
 # is not used for serial output (WITH_UART option).
-# For ATmega644/1284 processor the UART has a separate pin.  Therefore the external input
+# For ATmega644/1284 processor the UART has a separate pin. Therefore the external input
 # at pin ADC3 can be enabled separate by setting the WITH_UART option.
 #CFLAGS += -DWITH_VEXT
 
-#
-# If you want to measure Inductors with the resistance meter, you must specify
+# If you want to measure inductors with the resistance meter, you must specify
 # the RMETER_WITH_L  option. The measurement cycle time slow down with this option
 # for resistors below 2.1kOhm. Resistors below 10 Ohm are measured additionally
 # with the ESR measurement methode, which takes also a longer time.
@@ -274,7 +278,7 @@ CFLAGS += -DESR_ZERO=20
 # A capacitor with 1nF can be used with the option NO_AREF_CAP set.
 CFLAGS += -DNO_AREF_CAP
 
-# The OP_MHZ option tells the software the Operating Frequency of your ATmega.
+# The OP_MHZ option tells the software the operating frequency of your microcontroller in MHz.
 OP_MHZ = 8
 
 # Restart from sleep mode will be delayed for 16384 clock tics with crystal mode.
@@ -282,12 +286,12 @@ OP_MHZ = 8
 # You must specify this with "CFLAGS += -DRESTART_DELAY_TICS=6", if you don't use the crystal mode.
 #CFLAGS += -DRESTART_DELAY_TICS=6
 
-# The USE_EEPROM option specify where you wish to locate fix text and tables.
-# If USE_EEPROM is unset, program memory (flash) is taken for fix text and tables.
-CFLAGS += -DUSE_EEPROM
+# The USE_EEPROM option specify where you wish to locate fixed text and tables.
+# If USE_EEPROM is unset, program memory (flash) is used for fixed text and tables.
+#CFLAGS += -DUSE_EEPROM
 
 # Setting EBC_STYPE will select the old style to present the order of Transistor connection (EBC=...).
-# Omitting the option will select the 123=... style.  Every point is replaced by a character identifying 
+# Omitting the option will select the 123=... style.  Every point is replaced by a character identifying
 # type of connected transistor pin (B=Base, E=Emitter, C=Collector, G=Gate, S=Source, D=Drain).
 # If you select EBC_STYLE=321 , the style will be 321=... , the inverted order to the 123=... style.
 #CFLAGS += -DEBC_STYLE
@@ -309,7 +313,6 @@ CFLAGS += -DPULLUP_DISABLE
 # Possible values of ANZ_MESS are 5 to 200 .
 CFLAGS += -DANZ_MESS=25
 
-
 # The POWER_OFF option enables the power off function, otherwise loop measurements infinitely
 # until power is disconnected with a ON/OFF switch (CFLAGS += -DPOWER_OFF).
 # If you have the tester without the power off transistors, you can deselect POWER_OFF .
@@ -324,8 +327,9 @@ CFLAGS += -DANZ_MESS=25
 #CFLAGS += -DPOWER_OFF=5
 CFLAGS += -DPOWER_OFF
 
-# Option BAT_CHECK enables the Battery Voltage Check, otherwise the SW Version is displayed instead of Bat.
-# BAT_CHECK should be set for battery powered tester version.
+# Option BAT_CHECK enables the Battery Voltage Check function.
+# Otherwise, the SW version is displayed instead of battery voltage.
+# BAT_CHECK should be set for battery powered testers.
 CFLAGS += -DBAT_CHECK
 
 # The BAT_OUT option enables Battery Voltage Output on LCD (if BAT_CHECK is selected).
@@ -346,7 +350,7 @@ CFLAGS += -DBAT_OUT=150
 CFLAGS += -DBAT_POOR=6400
 
 # You can set a upper battery voltage limit in mV units for battery operation mode.
-# The operation time of additional functions is limited with the battery operation mode. 
+# The operation time of additional functions is limited with the battery operation mode.
 # Above the voltage limit "DC_PWR" the tester changes the operation mode to the
 # "DC_Pwr_Mode", where time limits of the additional functions are switched off.
 # The "DC_Pwr_Mode" is also started, if the battery voltage is detected below 0.9V
@@ -356,21 +360,22 @@ CFLAGS += -DBAT_POOR=6400
 # Voltage divider for battery voltage measurement  10k / 3.3k = 133/33
 CFLAGS += -DBAT_NUMERATOR=133
 CFLAGS += -DBAT_DENOMINATOR=33
+
 # Voltage divider for the external zener voltage measurement 180k / 20k = 10/1
 #CFLAGS += -DEXT_NUMERATOR=10
 #CFLAGS += -DEXT_DENOMINATOR=1
 
-# The sleep mode of the ATmega168 or ATmega328 is normally used by the software to save current.
+# The sleep mode of the ATmega168 or ATmega328 is normally used by the software to save power.
 # You can inhibit this with the option INHIBIT_SLEEP_MODE .
 INHIBIT_SLEEP_MODE = 0
 
-
-# Select your programmer type, speed and port, if you wish to use avrdude.
-# setting for DIAMEX ALL_AVR, Atmel AVRISP-mkII
+# Select the programmer type, speed and port if using avrdude.
+# Settings for DIAMEX ALL_AVR, Atmel AVRISP-mkII:
 PROGRAMMER=avrispmkII
 BitClock=1.0
 PORT=usb
-# setting for USBasp
+
+# Settings for USBasp:
 #PROGRAMMER=usbasp
 #BitClock=20
 #PORT=usb
@@ -379,11 +384,12 @@ PORT=usb
 #PORT = /dev/ttyACM0
 #BitClock=5.0
 #AVRDUDE_BAUD = -b 115200 -D
-# ********************** end of selectable options
+
+# === End of selectable/modifiable options ===
 
 include ../setup.mk
 
-########### Compile C or Assembler , Assembler saves more than 400 bytes flash
+# === Compile C or Assembler (Assembler saves more than 400 bytes flash) ===
 $(OBJDIR)/GetRLmultip.o: ../GetRLmultip.S $(MKFILES)
 	$(CC) $(INCLUDES) $(CFLAGS) -c -o $@ $<
 

@@ -1,13 +1,12 @@
 # ************************************************************************
 #  (c) by Karl-Heinz Kuebbeler, Projekt Transistor Tester
-#  
+#
 #  File:       finisch.mk
 #  Funktion:   late common tasks for the Makefile(s)
-# 
-# History:     Date        Sign    Kommentar   
+#
+# History:     Date        Sign    Kommentar
 #              2021-01-10  Karl    LastChar
 #              2021-01-10  Karl    add the function in comment
-#
 # ************************************************************************ */
 ########### Compile only Assembler source available
 $(OBJDIR)/lcd_hw_4_bit.o: ../lcd_hw_4_bit.S $(MKFILES)
@@ -23,7 +22,7 @@ $(OBJDIR)/swuart.o: ../swuart.S $(MKFILES)
 $(OBJDIR)/GetESR.o: ../GetESR.S $(MKFILES)
 	$(CC) $(INCLUDES) $(CFLAGS) -c -o $@ $<
 
-########### Compile C source only 
+########### Compile C source only
 $(OBJDIR)/lcd-routines.o: ../lcd-routines.c $(MKFILES)
 	$(CC) $(INCLUDES) $(CFLAGS) -c -o $@ $<
 
@@ -102,22 +101,23 @@ $(OBJDIR)/sampling_xtal.o: ../sampling_xtal.c $(MKFILES)
 $(OBJDIR)/CheckUJT.o: ../CheckUJT.c $(MKFILES)
 	$(CC) $(INCLUDES) $(CFLAGS) -c -o $@ $<
 
-########### Compile assembler source only 
+########### Compile assembler source only
 
 $(OBJDIR)/samplingADC.o: ../samplingADC.S $(MKFILES)
 	$(CC) $(INCLUDES) $(CFLAGS) -c -o $@ $<
-	
+
 ########### directories
 deleteobj:
 	rm -rf $(OBJDIR)
+
 # create directories
 objdirect: deleteobj
 	mkdir -p $(OBJDIR)
+
 directories: objdirect
 	mkdir -p $(DEPDIR)
 
 OBJFILES = $(addprefix $(OBJDIR)/, $(OBJECTS))
-
 
 ##Link
 $(TARGET): directories $(OBJFILES)
@@ -150,10 +150,8 @@ steril:
 	$(MAKE)
 	-rm -f $(PROJECT).elf $(PROJECT).lss $(PROJECT).map
 
-
 ## Other dependencies
 -include $(shell mkdir $(DEPDIR) 2>/dev/null) $(wildcard $(DEPDIR)/*)
-
 
 # device programming
 # make fuses  call if you don't have installed a crystal
@@ -164,10 +162,11 @@ fuses:
 # fuses-crytal can only used if a 8MHz Crytal is installed (between Pin 9 and 10)
 fuses-crystal:
 	avrdude -c $(PROGRAMMER) -B $(SlowBitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT)  $(FUSES_CRY)
+
 fuses-crystal-lp:
 	avrdude -c $(PROGRAMMER) -B $(SlowBitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT)  $(FUSES_CRY_L)
 
-# erases the FLASH ROM, EEPROM and clears all lock bits 
+# erases the FLASH ROM, EEPROM and clears all lock bits
 erase:
 	avrdude -c $(PROGRAMMER) -B $(SlowBitClock) -p $(PARTNO) -P $(PORT) -e
 
@@ -176,27 +175,34 @@ upload:
 	$(MAKE)
 	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) -U flash:w:./$(PROJECT).hex:a \
 	-U eeprom:w:./$(PROJECT).eep:a
+
 program:
 	$(MAKE)
 	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) -U flash:w:./$(PROJECT).hex:a \
 	-U eeprom:w:./$(PROJECT).eep:a
+
 flash:
-	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) -U flash:w:./$(PROJECT).hex:a 
+	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) -U flash:w:./$(PROJECT).hex:a
+
 eeprom:
 	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) \
 	-U eeprom:w:./$(PROJECT).eep:a
+
 eeread:
 	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) \
 	-U eeprom:r:./TTactual.eep:i
+
 read:
 	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) \
 	-U flash:r:./TTactual.hex:i
+
 verify:
 	avrdude -D -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) -U flash:v:./$(PROJECT).hex:a \
 	-U eeprom:v:./$(PROJECT).eep:a -v
+
 upload_orig:
 	avrdude -c $(PROGRAMMER) -B $(BitClock) $(AVRDUDE_BAUD) -p $(PARTNO) -P $(PORT) -U flash:w:./TransistorTestorig.hex:a \
 	-U eeprom:w:./TransistorTestorig.eep:a
+
 if:
 	ls -l /dev/serial/by-id/* | cut -c 40-
-## ****************************** EOF ***************************************** ##

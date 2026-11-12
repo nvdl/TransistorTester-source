@@ -886,7 +886,7 @@ showdiodecap:
        lcd_next_line(TEXT_RIGHT_TO_ICON);	// position text behind the icon, Line 3
        lcd_show_Cg();	// show Cg=xxxpF
  #ifdef SHOW_R_DS
-       lcd_show_rds(TEXT_RIGHT_TO_ICON-1); 	// show RDS at column behind the icon -1
+       lcd_show_rds(TEXT_RIGHT_TO_ICON); 	// Show RDS at column behind the icon.
  #endif
     } else {   /* depletion mode */
        if ((PartMode&0x0f)  != PART_MODE_JFET) {     /* kein JFET */

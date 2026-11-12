@@ -24,7 +24,7 @@
 
   */
 
-// Big Capacities (>50µF) are measured with up to 500 load-pulses with the 680 Ohm resistor.
+// Big Capacities (>50ï¿½F) are measured with up to 500 load-pulses with the 680 Ohm resistor.
 // Each  of this load-puls has an length of 10ms. After every load-pulse the voltage of the
 // capacitor is measured. If the voltage is more than 300mV, the capacity is computed by
 // interpolating the corresponding values of the table RLtab and multiply that with the number
@@ -153,7 +153,7 @@ End of configuration
 #ifndef LANG_SELECTED		//default language is english
    const unsigned char TestRunning[] MEM_TEXT = "Testing.";
    const unsigned char BatWeak[] MEM_TEXT = "weak";
-   const unsigned char BatEmpty[] MEM_TEXT = "empty!";
+   const unsigned char BatEmpty[] MEM_TEXT = "empty";
    const unsigned char TestFailed2[] MEM_TEXT = "damaged ";
    const unsigned char Bauteil[] MEM_TEXT = "part";
 //   const unsigned char Diode[] MEM_TEXT = "Diode: ";
@@ -162,24 +162,24 @@ End of configuration
    const unsigned char Unknown[] MEM_TEXT = " unknown";
    const unsigned char TestFailed1[] MEM_TEXT = "No, unknown, or";
    const unsigned char Detected[] MEM_TEXT = " detected";
-   const unsigned char TestTimedOut[] MEM_TEXT = "Timeout!";
+   const unsigned char TestTimedOut[] MEM_TEXT = "Timeout";
    #define Cathode_char 'C'
  #ifdef WITH_SELFTEST
-   const unsigned char SELFTEST[] MEM_TEXT = "Selftest mode..";
-   const unsigned char RELPROBE[] MEM_TEXT = "isolate Probes!"; // or "separate pins!";
-   const unsigned char ATE[] MEM_TEXT = "Test End";
+   const unsigned char SELFTEST[] MEM_TEXT = "Selftest mode";
+   const unsigned char RELPROBE[] MEM_TEXT = "Separate all the probes";
+   const unsigned char ATE[] MEM_TEXT = "End of test";
  #endif
  #ifdef WITH_MENU
-   const unsigned char SELECTION_str[] MEM2_TEXT = "Selection:";
+   const unsigned char SELECTION_str[] MEM2_TEXT = "Menu:";
    const unsigned char TESTER_str[] MEM2_TEXT = "Transistor";
    const unsigned char VOLTAGE_str[] MEM2_TEXT = "Voltage";
    const unsigned char SHOW_str[] MEM2_TEXT = "Show data";	// "Show data"
    const unsigned char OFF_str[] MEM2_TEXT = "Switch off";
-   const unsigned char F_GEN_str[] MEM2_TEXT = "f-Generator";
+   const unsigned char F_GEN_str[] MEM2_TEXT = "F-Generator";
   #ifdef PWM_SERVO
    const unsigned char PWM_10bit_str[] MEM2_TEXT = "Servo PWM";
   #else
- const unsigned char PWM_10bit_str[] MEM2_TEXT = "10-bit PWM";
+ const unsigned char PWM_10bit_str[] MEM2_TEXT = "PWM";
   #endif
   #ifdef WITH_ROTARY_CHECK
    const unsigned char RotaryEncoder_str[] MEM2_TEXT = "rotary encoder";
@@ -187,7 +187,7 @@ End of configuration
    const unsigned char SetCapCorr_str[] MEM2_TEXT = {'C','(',LCD_CHAR_U,'F',')','c','o','r','r','e','c','t','i','o','n',0};
    const unsigned char TURN_str[] MEM2_TEXT = "turn!";	
    const unsigned char FULLCHECK_str[] MEM2_TEXT = "Selftest";
-   const unsigned char SHORT_PROBES_str[] MEM2_TEXT = "short Probes!";
+   const unsigned char SHORT_PROBES_str[] MEM2_TEXT = "Short all the probes";
   #ifndef NO_FREQ_COUNTER
    const unsigned char FREQ_str[] MEM2_TEXT = "Frequency";
    #ifdef WITH_FREQUENCY_DIVIDER
@@ -211,7 +211,7 @@ End of configuration
 
 
 // Strings, which are not dependent of any language
- const unsigned char Bat_str[] MEM_TEXT = "Bat. ";
+ const unsigned char Bat_str[] MEM_TEXT = "Battery: ";
  const unsigned char OK_str[] MEM_TEXT = "OK";
 #if FLASHEND > 0x1fff
  #ifndef DC_PWR_TEXT 
@@ -463,12 +463,12 @@ const unsigned char RESIS_13_str[] MEM2_TEXT = {'1'+TP1,LCD_CHAR_LINE1, LCD_CHAR
 				     0x04};	// Resistor Icon2
 #endif
 
-//generate Omega- and µ-character as Custom-character, if these characters has a number of loadable type
+//generate Omega- and ï¿½-character as Custom-character, if these characters has a number of loadable type
 #if LCD_CHAR_OMEGA < 8
    const unsigned char CyrillicOmegaIcon[] MEM_TEXT = {0,0,14,17,17,10,27,0};	//Omega
 #endif
 #if LCD_CHAR_U < 8
-   const unsigned char CyrillicMuIcon[] MEM_TEXT = {0,17,17,17,19,29,16,16};	//µ
+   const unsigned char CyrillicMuIcon[] MEM_TEXT = {0,17,17,17,19,29,16,16};	//ï¿½
 #endif
 
 // The combined Table for switching RL / RH and ADC pins, index is the TP number
@@ -656,12 +656,12 @@ const unsigned char RESIS_13_str[] MEM2_TEXT = {'1'+TP1,LCD_CHAR_LINE1, LCD_CHAR
   extern const unsigned char BackColor_str[];
 #endif
 
-//generate Omega- and µ-character as Custom-character, if these characters has a number of loadable type
+//generate Omega- and ï¿½-character as Custom-character, if these characters has a number of loadable type
 #if LCD_CHAR_OMEGA < 8
   extern const unsigned char CyrillicOmegaIcon[] MEM_TEXT;	//Omega
 #endif
 #if LCD_CHAR_U < 8
-  extern const unsigned char CyrillicMuIcon[] MEM_TEXT;	//µ
+  extern const unsigned char CyrillicMuIcon[] MEM_TEXT;	//ï¿½
 #endif
 
 

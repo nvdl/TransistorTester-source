@@ -1,0 +1,2425 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+                              ../Obj/mega328_MK-328/main.o (__umulhisi3)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+                              ../Obj/mega328_MK-328/ReadADC.o (__mulsi3)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+                              ../Obj/mega328_MK-328/function_menu.o (__udivmodqi4)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                              ../Obj/mega328_MK-328/RefVoltage.o (__udivmodhi4)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+                              ../Obj/mega328_MK-328/function_menu.o (__divmodhi4)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                              ../Obj/mega328_MK-328/DisplayValue.o (__udivmodsi4)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+                              ../Obj/mega328_MK-328/main.o (__divmodsi4)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+                              ../Obj/mega328_MK-328/lcd-routines.o (__tablejump2__)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+                              ../Obj/mega328_MK-328/lcd-routines.o (__do_clear_bss)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+                              ../Obj/mega328_MK-328/main.o (__usmulhisi3)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+                              ../Obj/mega328_MK-328/main.o (__muluhisi3)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+                              ../Obj/mega328_MK-328/GetFrequency.o (__umulsidi3)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+                              ../Obj/mega328_MK-328/GetFrequency.o (__udivdi3)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o) (__udivmod64)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+                              ../Obj/mega328_MK-328/lcd-routines.o (__prologue_saves__)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+                              ../Obj/mega328_MK-328/lcd-routines.o (__epilogue_restores__)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o) (__muldi3_6)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strlen.o)
+                              ../Obj/mega328_MK-328/DisplayValue.o (strlen)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                              ../Obj/mega328_MK-328/DisplayValue.o (__ultoa_ncheck)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+                              ../Obj/mega328_MK-328/i2lcd.o (utoa)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa.o) (__utoa_ncheck)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o) (strrev)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                              ../Obj/mega328_MK-328/lcd-routines.o (eeprom_read_byte)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+                              ../Obj/mega328_MK-328/RefVoltage.o (eeprom_read_word)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                              ../Obj/mega328_MK-328/main.o (eeprom_write_byte)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+                              ../Obj/mega328_MK-328/main.o (eeprom_write_word)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(init_sp.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o (__init_sp)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(call_main.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o (__call_main)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o) (eeprom_read_blraw)
+/home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+                              /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(call_main.o) (exit)
+
+Merging object attributes
+
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/lcd-routines.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/lcd-routines.o
+ .text.lcd_write_word
+                0x00000000       0x18 ../Obj/mega328_MK-328/lcd-routines.o
+ .text.lcd_fix_customchar
+                0x00000000        0x2 ../Obj/mega328_MK-328/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/i2lcd.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/i2lcd.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/PinLayout.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/PinLayout.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/RvalOut.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/RvalOut.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/UfAusgabe.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/UfAusgabe.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/DisplayValue.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/DisplayValue.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/DisplayValue.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/lcd-draw.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/swuart.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/swuart.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/wait1000ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/wait1000ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/sleep_5ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/sleep_5ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/ReadADC.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/ReadADC.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/RefVoltage.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/RefVoltage.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/main.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/main.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/main.o
+ .progmem.data.bmp_inductor_data
+                0x00000000       0x12 ../Obj/mega328_MK-328/main.o
+ .progmem.data.ResIcon3
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .progmem.data.ResIcon2
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .progmem.data.ResIcon1
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .progmem.data.DiodeIcon2
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .progmem.data.DiodeIcon1
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .progmem.data.CapIcon
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .progmem.data.FatTP2_str
+                0x00000000        0x6 ../Obj/mega328_MK-328/main.o
+ .progmem.data.T50HZ
+                0x00000000        0x6 ../Obj/mega328_MK-328/main.o
+ .progmem.data.Cap_str
+                0x00000000        0x3 ../Obj/mega328_MK-328/main.o
+ .progmem.data.TURN_str
+                0x00000000        0x6 ../Obj/mega328_MK-328/main.o
+ .progmem.data.VOLTAGE_str
+                0x00000000        0x8 ../Obj/mega328_MK-328/main.o
+ .bss.mess_count
+                0x00000000        0x1 ../Obj/mega328_MK-328/main.o
+ .bss.empty_count
+                0x00000000        0x1 ../Obj/mega328_MK-328/main.o
+ .bss.tmpval2   0x00000000        0x1 ../Obj/mega328_MK-328/main.o
+ .bss.tmpval    0x00000000        0x1 ../Obj/mega328_MK-328/main.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/Battery_check.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/Battery_check.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/Battery_check.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/CheckPins.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/CheckPins.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/CheckPins.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/GetResistance.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/GetResistance.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/GetResistance.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/EntladePins.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/EntladePins.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/EntladePins.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/ReadCapacity.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/GetRLmultip.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/GetRLmultip.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/get_log.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/get_log.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/ReadInductance.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/GetESR.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/GetESR.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/GetVloss.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/GetVloss.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/GetVloss.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/function_menu.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/function_menu.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/function_menu.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/message_key_released.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/message_key_released.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/message_key_released.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/GetFrequency.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/GetFrequency.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/GetFrequency.o
+ .text.GetFrequency
+                0x00000000      0x344 ../Obj/mega328_MK-328/GetFrequency.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/ReadBigCap.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/ReadBigCap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/ReadBigCap.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .debug_info    0x00000000       0x6b ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .debug_line    0x00000000       0x35 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .debug_str     0x00000000      0x1e0 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .comment       0x00000000       0x13 ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/CalibrationCap.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/CalibrationCap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/CalibrationCap.o
+ .debug_info    0x00000000       0x6b ../Obj/mega328_MK-328/CalibrationCap.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_MK-328/CalibrationCap.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_MK-328/CalibrationCap.o
+ .debug_line    0x00000000       0x31 ../Obj/mega328_MK-328/CalibrationCap.o
+ .debug_str     0x00000000      0x1dc ../Obj/mega328_MK-328/CalibrationCap.o
+ .comment       0x00000000       0x13 ../Obj/mega328_MK-328/CalibrationCap.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/CheckUJT.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/CheckUJT.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/CheckUJT.o
+ .debug_info    0x00000000       0x6b ../Obj/mega328_MK-328/CheckUJT.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_MK-328/CheckUJT.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_MK-328/CheckUJT.o
+ .debug_line    0x00000000       0x2b ../Obj/mega328_MK-328/CheckUJT.o
+ .debug_str     0x00000000      0x1d6 ../Obj/mega328_MK-328/CheckUJT.o
+ .comment       0x00000000       0x13 ../Obj/mega328_MK-328/CheckUJT.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/ShowData.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/ShowData.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/ShowData.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/EE_check_init.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/EE_check_init.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/EE_check_init.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/samplingADC.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/samplingADC.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/samplingADC.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/sampling_cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/sampling_cap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/sampling_cap.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/sampling_lc.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/sampling_lc.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/sampling_lc.o
+ .text          0x00000000        0x0 ../Obj/mega328_MK-328/sampling_xtal.o
+ .data          0x00000000        0x0 ../Obj/mega328_MK-328/sampling_xtal.o
+ .bss           0x00000000        0x0 ../Obj/mega328_MK-328/sampling_xtal.o
+ .debug_line    0x00000000        0x0 ../Obj/mega328_MK-328/sampling_xtal.o
+ .debug_str     0x00000000      0x156 ../Obj/mega328_MK-328/sampling_xtal.o
+ .comment       0x00000000       0x13 ../Obj/mega328_MK-328/sampling_xtal.o
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.mul
+                0x00000000       0x56 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .debug_line    0x00000000       0xff /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .debug_line_str
+                0x00000000       0x5c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .debug_info    0x00000000       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .debug_abbrev  0x00000000       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .debug_aranges
+                0x00000000       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .debug_str     0x00000000       0x6a /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulsidi3.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.div
+                0x00000000       0x1c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000       0x93 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .debug_line_str
+                0x00000000       0x5c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .debug_str     0x00000000       0x6a /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.div
+                0x00000000       0xa2 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .debug_line    0x00000000      0x135 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .debug_line_str
+                0x00000000       0x5c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .debug_info    0x00000000       0x25 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .debug_abbrev  0x00000000       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .debug_aranges
+                0x00000000       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .debug_str     0x00000000       0x6a /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.mul
+                0x00000000       0x12 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .debug_line    0x00000000       0x75 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .debug_line_str
+                0x00000000       0x5c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .debug_info    0x00000000       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .debug_abbrev  0x00000000       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .debug_aranges
+                0x00000000       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .debug_str     0x00000000       0x6a /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muldi3_6.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strlen.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strlen.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strlen.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(init_sp.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(init_sp.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(init_sp.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(call_main.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(call_main.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(call_main.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .text          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw!x
+eeprom           0x00810000         0x00000400         rw!x
+fuse             0x00820000         0x00000003         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+LOAD ../Obj/mega328_MK-328/lcd-routines.o
+LOAD ../Obj/mega328_MK-328/i2lcd.o
+LOAD ../Obj/mega328_MK-328/PinLayout.o
+LOAD ../Obj/mega328_MK-328/RvalOut.o
+LOAD ../Obj/mega328_MK-328/UfAusgabe.o
+LOAD ../Obj/mega328_MK-328/DisplayValue.o
+LOAD ../Obj/mega328_MK-328/lcd-draw.o
+LOAD ../Obj/mega328_MK-328/swuart.o
+LOAD ../Obj/mega328_MK-328/wait1000ms.o
+LOAD ../Obj/mega328_MK-328/sleep_5ms.o
+LOAD ../Obj/mega328_MK-328/ReadADC.o
+LOAD ../Obj/mega328_MK-328/wait_for_key_ms.o
+LOAD ../Obj/mega328_MK-328/RefVoltage.o
+LOAD ../Obj/mega328_MK-328/main.o
+LOAD ../Obj/mega328_MK-328/Battery_check.o
+LOAD ../Obj/mega328_MK-328/CheckPins.o
+LOAD ../Obj/mega328_MK-328/GetResistance.o
+LOAD ../Obj/mega328_MK-328/ChargePin10ms.o
+LOAD ../Obj/mega328_MK-328/EntladePins.o
+LOAD ../Obj/mega328_MK-328/ReadCapacity.o
+LOAD ../Obj/mega328_MK-328/GetRLmultip.o
+LOAD ../Obj/mega328_MK-328/Calibrate_UR.o
+LOAD ../Obj/mega328_MK-328/show_Resis_Cap.o
+LOAD ../Obj/mega328_MK-328/get_log.o
+LOAD ../Obj/mega328_MK-328/ReadInductance.o
+LOAD ../Obj/mega328_MK-328/GetESR.o
+LOAD ../Obj/mega328_MK-328/GetVloss.o
+LOAD ../Obj/mega328_MK-328/function_menu.o
+LOAD ../Obj/mega328_MK-328/message_key_released.o
+LOAD ../Obj/mega328_MK-328/GetFrequency.o
+LOAD ../Obj/mega328_MK-328/ReadBigCap.o
+LOAD ../Obj/mega328_MK-328/CheckRotaryEncoder.o
+LOAD ../Obj/mega328_MK-328/CalibrationCap.o
+LOAD ../Obj/mega328_MK-328/CheckUJT.o
+LOAD ../Obj/mega328_MK-328/ShowData.o
+LOAD ../Obj/mega328_MK-328/EE_check_init.o
+LOAD ../Obj/mega328_MK-328/samplingADC.o
+LOAD ../Obj/mega328_MK-328/sampling_cap.o
+LOAD ../Obj/mega328_MK-328/sampling_lc.o
+LOAD ../Obj/mega328_MK-328/sampling_xtal.o
+START GROUP
+LOAD /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a
+LOAD /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libm.a
+LOAD /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a
+LOAD /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a
+END GROUP
+                [0x00000000]                      __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00008000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00800100]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00000800]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x6fe2
+ *(.vectors)
+ .vectors       0x00000000       0x68 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+                0x00000068                        __progmem_start = .
+ *(.progmem)
+ *(.progmem.*)
+ .progmem.data.bmp_number
+                0x00000068        0x6 ../Obj/mega328_MK-328/lcd-draw.o
+ .progmem.data.str_Idss.0
+                0x0000006e        0x6 ../Obj/mega328_MK-328/main.o
+ .progmem.data.bmp_vakdiode
+                0x00000074       0x24 ../Obj/mega328_MK-328/main.o
+                0x00000074                bmp_vakdiode
+ .progmem.data.bmp_three_data
+                0x00000098        0x7 ../Obj/mega328_MK-328/main.o
+                0x00000098                bmp_three_data
+ .progmem.data.bmp_two_data
+                0x0000009f        0x7 ../Obj/mega328_MK-328/main.o
+                0x0000009f                bmp_two_data
+ .progmem.data.bmp_one_data
+                0x000000a6        0x7 ../Obj/mega328_MK-328/main.o
+                0x000000a6                bmp_one_data
+ .progmem.data.bmp_pnp
+                0x000000ad       0x10 ../Obj/mega328_MK-328/main.o
+                0x000000ad                bmp_pnp
+ .progmem.data.bmp_p_jfet
+                0x000000bd        0xa ../Obj/mega328_MK-328/main.o
+                0x000000bd                bmp_p_jfet
+ .progmem.data.bmp_p_d_mos
+                0x000000c7       0x10 ../Obj/mega328_MK-328/main.o
+                0x000000c7                bmp_p_d_mos
+ .progmem.data.bmp_n_d_mos
+                0x000000d7        0x8 ../Obj/mega328_MK-328/main.o
+                0x000000d7                bmp_n_d_mos
+ .progmem.data.bmp_p_e_mos
+                0x000000df        0xa ../Obj/mega328_MK-328/main.o
+                0x000000df                bmp_p_e_mos
+ .progmem.data.bmp_p_d_igbt
+                0x000000e9       0x2c ../Obj/mega328_MK-328/main.o
+                0x000000e9                bmp_p_d_igbt
+ .progmem.data.bmp_n_d_igbt
+                0x00000115        0xc ../Obj/mega328_MK-328/main.o
+                0x00000115                bmp_n_d_igbt
+ .progmem.data.bmp_p_e_igbt
+                0x00000121       0x20 ../Obj/mega328_MK-328/main.o
+                0x00000121                bmp_p_e_igbt
+ .progmem.data.cap_for_l_meas_str
+                0x00000141       0x10 ../Obj/mega328_MK-328/main.o
+                0x00000141                cap_for_l_meas_str
+ .progmem.data.REF_R_str
+                0x00000151        0x7 ../Obj/mega328_MK-328/main.o
+                0x00000151                REF_R_str
+ .progmem.data.REF_C_str
+                0x00000158        0x7 ../Obj/mega328_MK-328/main.o
+                0x00000158                REF_C_str
+ .progmem.data.MinCap_str
+                0x0000015f        0x8 ../Obj/mega328_MK-328/main.o
+                0x0000015f                MinCap_str
+ .progmem.data.PrefixTab
+                0x00000167        0x8 ../Obj/mega328_MK-328/main.o
+                0x00000167                PrefixTab
+ .progmem.data.PinRLRHADCtab
+                0x0000016f        0x6 ../Obj/mega328_MK-328/main.o
+                0x0000016f                PinRLRHADCtab
+ .progmem.data.RDS_str
+                0x00000175        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000175                RDS_str
+ .progmem.data.CMETER_13_str
+                0x0000017a        0x4 ../Obj/mega328_MK-328/main.o
+                0x0000017a                CMETER_13_str
+ .progmem.data.CAP_13_str
+                0x0000017e        0x7 ../Obj/mega328_MK-328/main.o
+                0x0000017e                CAP_13_str
+ .progmem.data.RESIS_13_str
+                0x00000185        0xb ../Obj/mega328_MK-328/main.o
+                0x00000185                RESIS_13_str
+ .progmem.data.C_ESR_str
+                0x00000190        0xc ../Obj/mega328_MK-328/main.o
+                0x00000190                C_ESR_str
+ .progmem.data.C0samp_str
+                0x0000019c        0x8 ../Obj/mega328_MK-328/main.o
+                0x0000019c                C0samp_str
+ .progmem.data.C0_str
+                0x000001a4        0x4 ../Obj/mega328_MK-328/main.o
+                0x000001a4                C0_str
+ .progmem.data.RILO_str
+                0x000001a8        0x7 ../Obj/mega328_MK-328/main.o
+                0x000001a8                RILO_str
+ .progmem.data.RIHI_str
+                0x000001af        0x7 ../Obj/mega328_MK-328/main.o
+                0x000001af                RIHI_str
+ .progmem.data.R0_str
+                0x000001b6        0x4 ../Obj/mega328_MK-328/main.o
+                0x000001b6                R0_str
+ .progmem.data.RHRL_str
+                0x000001ba        0x6 ../Obj/mega328_MK-328/main.o
+                0x000001ba                RHRL_str
+ .progmem.data.RHRH_str
+                0x000001c0        0xe ../Obj/mega328_MK-328/main.o
+                0x000001c0                RHRH_str
+ .progmem.data.RLRL_str
+                0x000001ce        0xe ../Obj/mega328_MK-328/main.o
+                0x000001ce                RLRL_str
+ .progmem.data.RH1H_str
+                0x000001dc        0x4 ../Obj/mega328_MK-328/main.o
+                0x000001dc                RH1H_str
+ .progmem.data.RH1L_str
+                0x000001e0        0x4 ../Obj/mega328_MK-328/main.o
+                0x000001e0                RH1L_str
+ .progmem.data.RHfakt_str
+                0x000001e4        0x5 ../Obj/mega328_MK-328/main.o
+                0x000001e4                RHfakt_str
+ .progmem.data.URef_str
+                0x000001e9        0x5 ../Obj/mega328_MK-328/main.o
+                0x000001e9                URef_str
+ .progmem.data.ICEs_str
+                0x000001ee        0x6 ../Obj/mega328_MK-328/main.o
+                0x000001ee                ICEs_str
+ .progmem.data.ICE0_str
+                0x000001f4        0x6 ../Obj/mega328_MK-328/main.o
+                0x000001f4                ICE0_str
+ .progmem.data.VERSION_str
+                0x000001fa        0xe ../Obj/mega328_MK-328/main.o
+                0x000001fa                VERSION_str
+ .progmem.data.Inductor_str
+                0x00000208        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000208                Inductor_str
+ .progmem.data.Resistor_str
+                0x0000020d        0x5 ../Obj/mega328_MK-328/main.o
+                0x0000020d                Resistor_str
+ .progmem.data.Dioden
+                0x00000212        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000212                Dioden
+ .progmem.data.zQ_str
+                0x00000217        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000217                zQ_str
+ .progmem.data.iF_str
+                0x0000021c        0x5 ../Obj/mega328_MK-328/main.o
+                0x0000021c                iF_str
+ .progmem.data.AT05volt
+                0x00000221        0x7 ../Obj/mega328_MK-328/main.o
+                0x00000221                AT05volt
+ .progmem.data.KatAn_str
+                0x00000228        0x4 ../Obj/mega328_MK-328/main.o
+                0x00000228                KatAn_str
+ .progmem.data.AnKat_str
+                0x0000022c        0x4 ../Obj/mega328_MK-328/main.o
+                0x0000022c                AnKat_str
+ .progmem.data.HelpCalibration_str
+                0x00000230       0xf5 ../Obj/mega328_MK-328/main.o
+                0x00000230                HelpCalibration_str
+ .progmem.data.Ir_str
+                0x00000325        0x4 ../Obj/mega328_MK-328/main.o
+                0x00000325                Ir_str
+ .progmem.data.Lis_str
+                0x00000329        0x3 ../Obj/mega328_MK-328/main.o
+                0x00000329                Lis_str
+ .progmem.data.VLOSS_str
+                0x0000032c        0x8 ../Obj/mega328_MK-328/main.o
+                0x0000032c                VLOSS_str
+ .progmem.data.ESR_str
+                0x00000334        0x6 ../Obj/mega328_MK-328/main.o
+                0x00000334                ESR_str
+ .progmem.data.VCC_str
+                0x0000033a        0x5 ../Obj/mega328_MK-328/main.o
+                0x0000033a                VCC_str
+ .progmem.data.Cell_str
+                0x0000033f        0x6 ../Obj/mega328_MK-328/main.o
+                0x0000033f                Cell_str
+ .progmem.data.CapZeich
+                0x00000345        0x4 ../Obj/mega328_MK-328/main.o
+                0x00000345                CapZeich
+ .progmem.data.Vgs_str
+                0x00000349        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000349                Vgs_str
+ .progmem.data.vt_str
+                0x0000034e        0x5 ../Obj/mega328_MK-328/main.o
+                0x0000034e                vt_str
+ .progmem.data.Uf_str
+                0x00000353        0x4 ../Obj/mega328_MK-328/main.o
+                0x00000353                Uf_str
+ .progmem.data.Ube_str
+                0x00000357        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000357                Ube_str
+ .progmem.data.N123_str
+                0x0000035c        0x6 ../Obj/mega328_MK-328/main.o
+                0x0000035c                N123_str
+ .progmem.data.Pin_str
+                0x00000362        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000362                Pin_str
+ .progmem.data.PNP_str
+                0x00000367        0x8 ../Obj/mega328_MK-328/main.o
+                0x00000367                PNP_str
+ .progmem.data.NPN_str
+                0x0000036f        0x8 ../Obj/mega328_MK-328/main.o
+                0x0000036f                NPN_str
+ .progmem.data.GateCap_str
+                0x00000377        0x4 ../Obj/mega328_MK-328/main.o
+                0x00000377                GateCap_str
+ .progmem.data.hfe_str
+                0x0000037b        0x5 ../Obj/mega328_MK-328/main.o
+                0x0000037b                hfe_str
+ .progmem.data.igbt_str
+                0x00000380        0x6 ../Obj/mega328_MK-328/main.o
+                0x00000380                igbt_str
+ .progmem.data.jfet_str
+                0x00000386        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000386                jfet_str
+ .progmem.data.mosfet_str
+                0x0000038b        0x5 ../Obj/mega328_MK-328/main.o
+                0x0000038b                mosfet_str
+ .progmem.data.DC_Pwr_Mode_str
+                0x00000390        0xc ../Obj/mega328_MK-328/main.o
+                0x00000390                DC_Pwr_Mode_str
+ .progmem.data.OK_str
+                0x0000039c        0x3 ../Obj/mega328_MK-328/main.o
+                0x0000039c                OK_str
+ .progmem.data.Bat_str
+                0x0000039f        0xa ../Obj/mega328_MK-328/main.o
+                0x0000039f                Bat_str
+ .progmem.data.CONTRAST_str
+                0x000003a9        0x9 ../Obj/mega328_MK-328/main.o
+                0x000003a9                CONTRAST_str
+ .progmem.data.SHORT_PROBES_str
+                0x000003b2       0x15 ../Obj/mega328_MK-328/main.o
+                0x000003b2                SHORT_PROBES_str
+ .progmem.data.FULLCHECK_str
+                0x000003c7        0x9 ../Obj/mega328_MK-328/main.o
+                0x000003c7                FULLCHECK_str
+ .progmem.data.SetCapCorr_str
+                0x000003d0       0x10 ../Obj/mega328_MK-328/main.o
+                0x000003d0                SetCapCorr_str
+ .progmem.data.PWM_10bit_str
+                0x000003e0        0x4 ../Obj/mega328_MK-328/main.o
+                0x000003e0                PWM_10bit_str
+ .progmem.data.F_GEN_str
+                0x000003e4        0xc ../Obj/mega328_MK-328/main.o
+                0x000003e4                F_GEN_str
+ .progmem.data.OFF_str
+                0x000003f0        0xb ../Obj/mega328_MK-328/main.o
+                0x000003f0                OFF_str
+ .progmem.data.SHOW_str
+                0x000003fb        0xa ../Obj/mega328_MK-328/main.o
+                0x000003fb                SHOW_str
+ .progmem.data.TESTER_str
+                0x00000405        0xb ../Obj/mega328_MK-328/main.o
+                0x00000405                TESTER_str
+ .progmem.data.SELECTION_str
+                0x00000410        0x6 ../Obj/mega328_MK-328/main.o
+                0x00000410                SELECTION_str
+ .progmem.data.ATE
+                0x00000416        0xc ../Obj/mega328_MK-328/main.o
+                0x00000416                ATE
+ .progmem.data.RELPROBE
+                0x00000422       0x18 ../Obj/mega328_MK-328/main.o
+                0x00000422                RELPROBE
+ .progmem.data.SELFTEST
+                0x0000043a        0xe ../Obj/mega328_MK-328/main.o
+                0x0000043a                SELFTEST
+ .progmem.data.TestTimedOut
+                0x00000448        0x8 ../Obj/mega328_MK-328/main.o
+                0x00000448                TestTimedOut
+ .progmem.data.Detected
+                0x00000450        0xa ../Obj/mega328_MK-328/main.o
+                0x00000450                Detected
+ .progmem.data.TestFailed1
+                0x0000045a       0x10 ../Obj/mega328_MK-328/main.o
+                0x0000045a                TestFailed1
+ .progmem.data.Unknown
+                0x0000046a        0x9 ../Obj/mega328_MK-328/main.o
+                0x0000046a                Unknown
+ .progmem.data.Thyristor
+                0x00000473        0x9 ../Obj/mega328_MK-328/main.o
+                0x00000473                Thyristor
+ .progmem.data.Triac
+                0x0000047c        0x6 ../Obj/mega328_MK-328/main.o
+                0x0000047c                Triac
+ .progmem.data.Bauteil
+                0x00000482        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000482                Bauteil
+ .progmem.data.TestFailed2
+                0x00000487        0x9 ../Obj/mega328_MK-328/main.o
+                0x00000487                TestFailed2
+ .progmem.data.BatEmpty
+                0x00000490        0x6 ../Obj/mega328_MK-328/main.o
+                0x00000490                BatEmpty
+ .progmem.data.BatWeak
+                0x00000496        0x5 ../Obj/mega328_MK-328/main.o
+                0x00000496                BatWeak
+ .progmem.data.TestRunning
+                0x0000049b        0x9 ../Obj/mega328_MK-328/main.o
+                0x0000049b                TestRunning
+ .progmem.data.RHtab
+                0x000004a4       0x12 ../Obj/mega328_MK-328/main.o
+                0x000004a4                RHtab
+ .progmem.data.LogTab
+                0x000004b6       0x66 ../Obj/mega328_MK-328/main.o
+                0x000004b6                LogTab
+ .progmem.data.RLtab
+                0x0000051c       0x5a ../Obj/mega328_MK-328/main.o
+                0x0000051c                RLtab
+ .progmem.data.bigfont
+                0x00000576      0x2a0 ../Obj/mega328_MK-328/main.o
+                0x00000576                bigfont
+ .progmem.data.nfont
+                0x00000816      0x1f4 ../Obj/mega328_MK-328/main.o
+                0x00000816                nfont
+ .progmem.data.sfont
+                0x00000a0a       0x36 ../Obj/mega328_MK-328/main.o
+                0x00000a0a                sfont
+ .progmem.data.RL_METER_str
+                0x00000a40       0x10 ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00000a40                RL_METER_str
+ .progmem.gcc   0x00000a50      0x128 ../Obj/mega328_MK-328/samplingADC.o
+                0x00000a50                samplingADC
+                0x00000a50                samplingADC_freqgen_sck
+                0x00000a50                samplingADC_freqgen
+                0x00000b78                        __progmem_end = .
+                0x00000001                        ASSERT (((__progmem_start == __progmem_end) || (__progmem_end <= 0x10000)), .progmem section exceeds 0x10000)
+                0x00000b78                        . = ALIGN (0x2)
+                0x00000b78                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000b78        0x0 linker stubs
+ *(.trampolines*)
+                0x00000b78                        __trampolines_end = .
+                0x00000b78                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000b78                        __ctors_start = .
+ *(.ctors)
+                0x00000b78                        __ctors_end = .
+                0x00000b78                        __dtors_start = .
+ *(.dtors)
+                0x00000b78                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000b78        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000b78                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000b78        0x4 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .init2         0x00000b7c        0x8 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(init_sp.o)
+                0x00000b7c                __init_sp
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000b84       0x10 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000b84                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000b94        0x8 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(call_main.o)
+                0x00000b94                __call_main
+ *(.init9)
+ *(.text)
+ .text          0x00000b9c        0x2 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000b9c                __vector_22
+                0x00000b9c                __vector_1
+                0x00000b9c                __vector_24
+                0x00000b9c                __bad_interrupt
+                0x00000b9c                __vector_6
+                0x00000b9c                __vector_3
+                0x00000b9c                __vector_23
+                0x00000b9c                __vector_25
+                0x00000b9c                __vector_17
+                0x00000b9c                __vector_19
+                0x00000b9c                __vector_4
+                0x00000b9c                __vector_9
+                0x00000b9c                __vector_2
+                0x00000b9c                __vector_15
+                0x00000b9c                __vector_8
+                0x00000b9c                __vector_14
+                0x00000b9c                __vector_18
+                0x00000b9c                __vector_20
+ .text          0x00000b9e       0x78 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+                0x00000b9e                _lcd_hw_write
+ .text          0x00000c16       0x38 ../Obj/mega328_MK-328/i2lcd.o
+                0x00000c16                i2lcd
+                0x00000c2c                u2lcd
+                0x00000c3c                i2lcd_space
+                0x00000c40                u2lcd_space
+                0x00000c42                lcd_space
+                0x00000c46                lcd_minus
+                0x00000c4a                lcd_equal
+ .text          0x00000c4e       0xbc ../Obj/mega328_MK-328/PinLayout.o
+                0x00000c4e                PinLayout
+                0x00000c9c                PinLayoutLine
+                0x00000cf6                Rnum2pins
+ .text          0x00000d0a       0x4a ../Obj/mega328_MK-328/RvalOut.o
+                0x00000d0a                RvalOut
+ .text          0x00000d54       0xc4 ../Obj/mega328_MK-328/UfAusgabe.o
+                0x00000d54                mVAusgabe
+                0x00000d70                UfAusgabe
+                0x00000d9c                SerienDiodenAusgabe
+                0x00000dc0                DiodeSymbol_withPins
+                0x00000dd8                DiodeSymbol_ApinCpin
+                0x00000de6                DiodeSymbol_ACpin
+                0x00000df8                DiodeSymbol_CpinApin
+                0x00000e06                DiodeSymbol_CApin
+ .text          0x00000e18       0x26 ../Obj/mega328_MK-328/swuart.o
+                0x00000e18                uart_putc
+ .text          0x00000e3e       0x4a ../Obj/mega328_MK-328/wait1000ms.o
+                0x00000e3e                wait5s
+                0x00000e40                wait4s
+                0x00000e42                wait3s
+                0x00000e44                wait2s
+                0x00000e46                wait1000ms
+                0x00000e46                wait1s
+                0x00000e48                wait500ms
+                0x00000e4a                wait400ms
+                0x00000e4c                wait300ms
+                0x00000e4e                wait200ms
+                0x00000e50                wait100ms
+                0x00000e52                wait50ms
+                0x00000e54                wait40ms
+                0x00000e56                wait30ms
+                0x00000e58                wait20ms
+                0x00000e5a                wait10ms
+                0x00000e5c                wait5ms
+                0x00000e60                wait4ms
+                0x00000e62                wait3ms
+                0x00000e64                wait2ms
+                0x00000e66                wait1ms
+                0x00000e68                wait500us
+                0x00000e6a                wait400us
+                0x00000e6c                wait300us
+                0x00000e6e                wait200us
+                0x00000e70                wait100us
+                0x00000e72                wait50us
+                0x00000e74                wait40us
+                0x00000e76                wait30us
+                0x00000e78                wait20us
+                0x00000e7a                wait10us
+                0x00000e7c                wait5us
+                0x00000e7e                wait4us
+                0x00000e80                wait3us
+                0x00000e82                wait2us
+                0x00000e84                wait1us
+ .text          0x00000e88       0x5a ../Obj/mega328_MK-328/sleep_5ms.o
+                0x00000e88                sleep_10ms
+                0x00000e8a                sleep_5ms
+ .text          0x00000ee2       0xfa ../Obj/mega328_MK-328/ReadADC.o
+                0x00000ee2                W20msReadADC
+                0x00000eea                W10msReadADC
+                0x00000ef0                W5msReadADC
+                0x00000ef8                ReadADC
+                0x00000fb4                abs_diff
+                0x00000fc0                vcc_diff
+                0x00000fca                unsigned_diff
+ .text          0x00000fdc       0xa6 ../Obj/mega328_MK-328/RefVoltage.o
+                0x00000fdc                RefVoltage
+ .text          0x00001082       0x5e ../Obj/mega328_MK-328/GetRLmultip.o
+                0x00001082                GetRLmultip
+ .text          0x000010e0       0x48 ../Obj/mega328_MK-328/get_log.o
+                0x000010e0                get_log
+ .text          0x00001128      0x34a ../Obj/mega328_MK-328/GetESR.o
+                0x00001128                GetESR
+                0x00001472                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.lcd_spaces
+                0x00001472       0x12 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001472                lcd_spaces
+ .text.lcd_set_cursor
+                0x00001484       0x1a ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001484                lcd_set_cursor
+ .text.lcd_save_position
+                0x0000149e       0x12 ../Obj/mega328_MK-328/lcd-routines.o
+                0x0000149e                lcd_save_position
+ .text.lcd_restore_position
+                0x000014b0        0xc ../Obj/mega328_MK-328/lcd-routines.o
+                0x000014b0                lcd_restore_position
+ .text.lcd_command
+                0x000014bc        0x8 ../Obj/mega328_MK-328/lcd-routines.o
+                0x000014bc                lcd_command
+ .text.lcd_powersave
+                0x000014c4        0xa ../Obj/mega328_MK-328/lcd-routines.o
+                0x000014c4                lcd_powersave
+ .text.uart_newline
+                0x000014ce        0xa ../Obj/mega328_MK-328/lcd-routines.o
+                0x000014ce                uart_newline
+ .text.lcd_line1
+                0x000014d8        0xe ../Obj/mega328_MK-328/lcd-routines.o
+                0x000014d8                lcd_line1
+ .text.lcd_clear
+                0x000014e6       0x2e ../Obj/mega328_MK-328/lcd-routines.o
+                0x000014e6                lcd_clear
+ .text.lcd_init
+                0x00001514       0x6a ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001514                lcd_init
+ .text.lcd_line2
+                0x0000157e        0xe ../Obj/mega328_MK-328/lcd-routines.o
+                0x0000157e                lcd_line2
+ .text.lcd_line3
+                0x0000158c        0xe ../Obj/mega328_MK-328/lcd-routines.o
+                0x0000158c                lcd_line3
+ .text.lcd_line4
+                0x0000159a        0xe ../Obj/mega328_MK-328/lcd-routines.o
+                0x0000159a                lcd_line4
+ .text.lcd_clear_line
+                0x000015a8        0xe ../Obj/mega328_MK-328/lcd-routines.o
+                0x000015a8                lcd_clear_line
+ .text.lcd_next_line
+                0x000015b6       0x2c ../Obj/mega328_MK-328/lcd-routines.o
+                0x000015b6                lcd_next_line
+ .text.lcd_next_line_wait
+                0x000015e2       0x10 ../Obj/mega328_MK-328/lcd-routines.o
+                0x000015e2                lcd_next_line_wait
+ .text.lcd_clear_line1
+                0x000015f2        0x8 ../Obj/mega328_MK-328/lcd-routines.o
+                0x000015f2                lcd_clear_line1
+ .text.lcd_clear_line2
+                0x000015fa        0x8 ../Obj/mega328_MK-328/lcd-routines.o
+                0x000015fa                lcd_clear_line2
+ .text.reverse_byte
+                0x00001602       0x20 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001602                reverse_byte
+ .text.lcd_set_pixels
+                0x00001622       0xe0 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001622                lcd_set_pixels
+ .text.lcd_big_icon
+                0x00001702       0x50 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001702                lcd_big_icon
+ .text.lcd_update_icon_opt
+                0x00001752       0x2e ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001752                lcd_update_icon_opt
+ .text.lcd_update_icon
+                0x00001780        0x6 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001780                lcd_update_icon
+ .text.lcd_data
+                0x00001786       0xdc ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001786                lcd_data
+ .text.lcd_testpin
+                0x00001862        0x6 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001862                lcd_testpin
+ .text.lcd_string
+                0x00001868       0x18 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001868                lcd_string
+ .text.lcd_pgm_string
+                0x00001880       0x1a ../Obj/mega328_MK-328/lcd-routines.o
+                0x00001880                lcd_pgm_string
+ .text.lcd_pgm_bitmap
+                0x0000189a       0x16 ../Obj/mega328_MK-328/lcd-routines.o
+                0x0000189a                lcd_pgm_bitmap
+ .text.lcd_show_Cg
+                0x000018b0       0x30 ../Obj/mega328_MK-328/lcd-routines.o
+                0x000018b0                lcd_show_Cg
+ .text.lcd_show_rds
+                0x000018e0       0x28 ../Obj/mega328_MK-328/lcd-routines.o
+                0x000018e0                lcd_show_rds
+ .text.DisplayValue
+                0x00001908      0x1cc ../Obj/mega328_MK-328/DisplayValue.o
+                0x00001908                DisplayValue
+ .text.DisplayValue16
+                0x00001ad4       0x16 ../Obj/mega328_MK-328/DisplayValue.o
+                0x00001ad4                DisplayValue16
+ .text.Display_mV
+                0x00001aea       0x16 ../Obj/mega328_MK-328/DisplayValue.o
+                0x00001aea                Display_mV
+ .text.Display_Hz
+                0x00001b00       0x14 ../Obj/mega328_MK-328/DisplayValue.o
+                0x00001b00                Display_Hz
+ .text.lcd_draw_pin
+                0x00001b14       0x22 ../Obj/mega328_MK-328/lcd-draw.o
+                0x00001b14                lcd_draw_pin
+ .text.lcd_draw_trans_pins
+                0x00001b36       0x3e ../Obj/mega328_MK-328/lcd-draw.o
+                0x00001b36                lcd_draw_trans_pins
+ .text.wait_for_key_ms
+                0x00001b74       0x72 ../Obj/mega328_MK-328/wait_for_key_ms.o
+                0x00001b74                wait_for_key_ms
+ .text.wait_for_key_5s_line2
+                0x00001be6       0x44 ../Obj/mega328_MK-328/wait_for_key_ms.o
+                0x00001be6                wait_for_key_5s_line2
+ .text.__vector_7
+                0x00001c2a        0x2 ../Obj/mega328_MK-328/main.o
+                0x00001c2a                __vector_7
+ .text.__vector_21
+                0x00001c2c        0x2 ../Obj/mega328_MK-328/main.o
+                0x00001c2c                __vector_21
+ .text.search_vak_diode
+                0x00001c2e       0x4a ../Obj/mega328_MK-328/main.o
+                0x00001c2e                search_vak_diode
+ .text.init_parts
+                0x00001c78       0x56 ../Obj/mega328_MK-328/main.o
+                0x00001c78                init_parts
+ .text.switch_tester_off
+                0x00001cce       0x1c ../Obj/mega328_MK-328/main.o
+                0x00001cce                switch_tester_off
+ .text.ShortedProbes
+                0x00001cea       0x7e ../Obj/mega328_MK-328/main.o
+                0x00001cea                ShortedProbes
+ .text.AllProbesShorted
+                0x00001d68       0x1e ../Obj/mega328_MK-328/main.o
+                0x00001d68                AllProbesShorted
+ .text.AutoCheck
+                0x00001d86      0x782 ../Obj/mega328_MK-328/main.o
+                0x00001d86                AutoCheck
+ .text.mark_as_uncalibrated
+                0x00002508       0x24 ../Obj/mega328_MK-328/main.o
+                0x00002508                mark_as_uncalibrated
+ .text.GetIr    0x0000252c       0x86 ../Obj/mega328_MK-328/main.o
+                0x0000252c                GetIr
+ .text.startup.main
+                0x000025b2      0xb74 ../Obj/mega328_MK-328/main.o
+                0x000025b2                main
+ .text.Battery_check
+                0x00003126       0x9a ../Obj/mega328_MK-328/Battery_check.o
+                0x00003126                Battery_check
+ .text.expand_FET_quadratic
+                0x000031c0       0x44 ../Obj/mega328_MK-328/CheckPins.o
+                0x000031c0                expand_FET_quadratic
+ .text.CheckPins
+                0x00003204      0xe06 ../Obj/mega328_MK-328/CheckPins.o
+                0x00003204                CheckPins
+ .text.GetResistance
+                0x0000400a      0x406 ../Obj/mega328_MK-328/GetResistance.o
+                0x0000400a                GetResistance
+ .text.ChargePin10ms
+                0x00004410       0x2e ../Obj/mega328_MK-328/ChargePin10ms.o
+                0x00004410                ChargePin10ms
+ .text.EntladePins
+                0x0000443e      0x116 ../Obj/mega328_MK-328/EntladePins.o
+                0x0000443e                EntladePins
+ .text.Scale_C_with_vcc
+                0x00004554       0x68 ../Obj/mega328_MK-328/ReadCapacity.o
+                0x00004554                Scale_C_with_vcc
+ .text.ReadCapacity
+                0x000045bc      0x586 ../Obj/mega328_MK-328/ReadCapacity.o
+                0x000045bc                ReadCapacity
+ .text.__vector_13
+                0x00004b42       0x48 ../Obj/mega328_MK-328/ReadCapacity.o
+                0x00004b42                __vector_13
+ .text.__vector_10
+                0x00004b8a       0x40 ../Obj/mega328_MK-328/ReadCapacity.o
+                0x00004b8a                __vector_10
+ .text.Calibrate_UR
+                0x00004bca      0x1a2 ../Obj/mega328_MK-328/Calibrate_UR.o
+                0x00004bca                Calibrate_UR
+ .text.show_resis
+                0x00004d6c      0x17c ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00004d6c                show_resis
+ .text.show_cap
+                0x00004ee8       0xf0 ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00004ee8                show_cap
+ .text.Bat_update
+                0x00004fd8        0xe ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00004fd8                Bat_update
+ .text.Pwr_mode_check
+                0x00004fe6       0x14 ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00004fe6                Pwr_mode_check
+ .text.show_Resis13
+                0x00004ffa       0x8a ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00004ffa                show_Resis13
+ .text.show_Cap13
+                0x00005084       0xea ../Obj/mega328_MK-328/show_Resis_Cap.o
+                0x00005084                show_Cap13
+ .text.ReadInductance
+                0x0000516e      0x454 ../Obj/mega328_MK-328/ReadInductance.o
+                0x0000516e                ReadInductance
+ .text.GetVloss
+                0x000055c2      0x158 ../Obj/mega328_MK-328/GetVloss.o
+                0x000055c2                GetVloss
+ .text.message2line
+                0x0000571a       0x7e ../Obj/mega328_MK-328/function_menu.o
+                0x0000571a                message2line
+ .text.show_C_ESR
+                0x00005798       0xc0 ../Obj/mega328_MK-328/function_menu.o
+                0x00005798                show_C_ESR
+ .text.make_frequency
+                0x00005858      0x310 ../Obj/mega328_MK-328/function_menu.o
+                0x00005858                make_frequency
+ .text.do_10bit_PWM
+                0x00005b68      0x110 ../Obj/mega328_MK-328/function_menu.o
+                0x00005b68                do_10bit_PWM
+ .text.set_contrast
+                0x00005c78       0x70 ../Obj/mega328_MK-328/function_menu.o
+                0x00005c78                set_contrast
+ .text.set_big_cap_corr
+                0x00005ce8       0x96 ../Obj/mega328_MK-328/function_menu.o
+                0x00005ce8                set_big_cap_corr
+ .text.do_menu  0x00005d7e       0x5a ../Obj/mega328_MK-328/function_menu.o
+                0x00005d7e                do_menu
+ .text.function_menu
+                0x00005dd8       0x8c ../Obj/mega328_MK-328/function_menu.o
+                0x00005dd8                function_menu
+ .text.message_key_released
+                0x00005e64       0x28 ../Obj/mega328_MK-328/message_key_released.o
+                0x00005e64                message_key_released
+ .text.__vector_16
+                0x00005e8c       0x42 ../Obj/mega328_MK-328/GetFrequency.o
+                0x00005e8c                __vector_16
+ .text.__vector_11
+                0x00005ece        0xa ../Obj/mega328_MK-328/GetFrequency.o
+                0x00005ece                __vector_11
+ .text.__vector_12
+                0x00005ed8       0x18 ../Obj/mega328_MK-328/GetFrequency.o
+                0x00005ed8                __vector_12
+ .text.__vector_5
+                0x00005ef0       0x64 ../Obj/mega328_MK-328/GetFrequency.o
+                0x00005ef0                __vector_5
+ .text.ReadBigCap
+                0x00005f54      0x268 ../Obj/mega328_MK-328/ReadBigCap.o
+                0x00005f54                ReadBigCap
+ .text.ShowData
+                0x000061bc      0x1f8 ../Obj/mega328_MK-328/ShowData.o
+                0x000061bc                ShowData
+ .text.EE_check_init
+                0x000063b4        0x2 ../Obj/mega328_MK-328/EE_check_init.o
+                0x000063b4                EE_check_init
+ .text.mylog    0x000063b6       0xb6 ../Obj/mega328_MK-328/sampling_cap.o
+ .text.sampling_cap
+                0x0000646c      0x182 ../Obj/mega328_MK-328/sampling_cap.o
+                0x0000646c                sampling_cap
+ .text.sampling_cap_calibrate
+                0x000065ee       0xe6 ../Obj/mega328_MK-328/sampling_cap.o
+                0x000065ee                sampling_cap_calibrate
+ .text.peaksearch
+                0x000066d4      0x24e ../Obj/mega328_MK-328/sampling_lc.o
+ .text.sampling_lc
+                0x00006922      0x326 ../Obj/mega328_MK-328/sampling_lc.o
+                0x00006922                sampling_lc
+ .text.sampling_lc_calibrate
+                0x00006c48       0x8c ../Obj/mega328_MK-328/sampling_lc.o
+                0x00006c48                sampling_lc_calibrate
+ .text.libgcc.mul
+                0x00006cd4       0x1e /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+                0x00006cd4                __umulhisi3
+ .text.libgcc.mul
+                0x00006cf2       0x1e /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+                0x00006cf2                __mulsi3
+ .text.libgcc.div
+                0x00006d10       0x18 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+                0x00006d10                __udivmodqi4
+ .text.libgcc.div
+                0x00006d28       0x28 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x00006d28                __udivmodhi4
+ .text.libgcc.div
+                0x00006d50       0x26 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+                0x00006d50                __divmodhi4
+                0x00006d50                _div
+ .text.libgcc.div
+                0x00006d76       0x44 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x00006d76                __udivmodsi4
+ .text.libgcc.div
+                0x00006dba       0x28 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+                0x00006dba                __divmodsi4
+ .text.libgcc.div
+                0x00006de2       0x10 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+                0x00006de2                __negsi2
+ .text.libgcc   0x00006df2        0xc /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+                0x00006df2                __tablejump2__
+ .text.libgcc.mul
+                0x00006dfe        0xc /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+                0x00006dfe                __usmulhisi3
+                0x00006e00                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x00006e0a       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+                0x00006e0a                __muluhisi3
+ .text.libgcc.prologue
+                0x00006e1e       0x38 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+                0x00006e1e                __prologue_saves__
+ .text.libgcc.prologue
+                0x00006e56       0x36 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+                0x00006e56                __epilogue_restores__
+ .text.avr-libc
+                0x00006e8c       0x12 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strlen.o)
+                0x00006e8c                strlen
+ .text.avr-libc
+                0x00006e9e       0x42 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                0x00006e9e                __ultoa_ncheck
+                0x00006ea0                __ultoa_common
+ .text.avr-libc
+                0x00006ee0       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+                0x00006ee0                utoa
+                0x00006ee0                __utoa
+ .text.avr-libc
+                0x00006ef4       0x32 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                0x00006ef4                __utoa_ncheck
+                0x00006ef6                __utoa_common
+ .text.avr-libc
+                0x00006f26       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                0x00006f26                strrev
+ .text.avr-libc
+                0x00006f46       0x10 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                0x00006f46                eeprom_read_byte
+ .text.avr-libc
+                0x00006f56        0xa /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+                0x00006f56                eeprom_read_word
+ .text.avr-libc
+                0x00006f60       0x1c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                0x00006f60                eeprom_write_byte
+                0x00006f62                eeprom_write_r18
+ .text.avr-libc
+                0x00006f7c        0x6 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+                0x00006f7c                eeprom_write_word
+ .text.avr-libc
+                0x00006f82       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                0x00006f82                eeprom_read_block
+                0x00006f86                eeprom_read_blraw
+                0x00006fa2                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00006fa2        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+                0x00006fa2                exit
+                0x00006fa2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00006fa2        0x4 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx)
+ *(.progmemx.*)
+                0x00006fa6                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ .jumptables.gcc.lcd_data
+                0x00006fa6       0x3c ../Obj/mega328_MK-328/lcd-routines.o
+                0x00006fe2                        _etext = .
+
+.data           0x00800100        0x0 load address 0x00006fe2
+                [!provide]                        PROVIDE (__data_start = .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800100                        . = ALIGN (0x2)
+                0x00800100                        _edata = .
+                [!provide]                        PROVIDE (__data_end = .)
+
+.bss            0x00800100       0xba
+                0x00800100                        PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ .bss.icon_yy   0x00800100        0x1 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00800100                icon_yy
+ .bss.icon_xx   0x00800101        0x1 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00800101                icon_xx
+ .bss._xpos     0x00800102        0x1 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00800102                _xpos
+ .bss._page     0x00800103        0x1 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00800103                _page
+ .bss.last_text_column
+                0x00800104        0x1 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00800104                last_text_column
+ .bss.last_text_line
+                0x00800105        0x1 ../Obj/mega328_MK-328/lcd-routines.o
+                0x00800105                last_text_line
+ .bss.display_time
+                0x00800106        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800106                display_time
+ .bss.last_line_used
+                0x00800108        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800108                last_line_used
+ .bss._lcd_column
+                0x00800109        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800109                _lcd_column
+ .bss.lcd_text_line
+                0x0080010a        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080010a                lcd_text_line
+ .bss.DC_Pwr_mode
+                0x0080010b        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080010b                DC_Pwr_mode
+ .bss.UnCalibrated
+                0x0080010c        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080010c                UnCalibrated
+ .bss.pin_rpl   0x0080010d        0x2 ../Obj/mega328_MK-328/main.o
+                0x0080010d                pin_rpl
+ .bss.pin_rmi   0x0080010f        0x2 ../Obj/mega328_MK-328/main.o
+                0x0080010f                pin_rmi
+ .bss.resis680mi
+                0x00800111        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800111                resis680mi
+ .bss.resis680pl
+                0x00800113        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800113                resis680pl
+ .bss.pin_combination
+                0x00800115        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800115                pin_combination
+ .bss.ADCconfig
+                0x00800116        0x6 ../Obj/mega328_MK-328/main.o
+                0x00800116                ADCconfig
+ .bss.outval    0x0080011c        0xa ../Obj/mega328_MK-328/main.o
+                0x0080011c                outval
+ .bss.PartMode  0x00800126        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800126                PartMode
+ .bss.PartFound
+                0x00800127        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800127                PartFound
+ .bss.WithReference
+                0x00800128        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800128                WithReference
+ .bss.load_diff
+                0x00800129        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800129                load_diff
+ .bss.unfinished
+                0x0080012b        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080012b                unfinished
+ .bss.ovcnt16   0x0080012c        0x2 ../Obj/mega328_MK-328/main.o
+                0x0080012c                ovcnt16
+ .bss.cell_mv   0x0080012e        0x6 ../Obj/mega328_MK-328/main.o
+                0x0080012e                cell_mv
+ .bss.cap       0x00800134       0x14 ../Obj/mega328_MK-328/main.o
+                0x00800134                cap
+ .bss.pinchange_max
+                0x00800148        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800148                pinchange_max
+ .bss.pinchange_count
+                0x0080014a        0x2 ../Obj/mega328_MK-328/main.o
+                0x0080014a                pinchange_count
+ .bss.ext_freq  0x0080014c        0x4 ../Obj/mega328_MK-328/main.o
+                0x0080014c                ext_freq
+ .bss.RHmultip  0x00800150        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800150                RHmultip
+ .bss.adc_vcc_reference
+                0x00800152        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800152                adc_vcc_reference
+ .bss.adc_internal_reference
+                0x00800154        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800154                adc_internal_reference
+ .bss.ref_mv_offs
+                0x00800156        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800156                ref_mv_offs
+ .bss.ref_mv    0x00800158        0x2 ../Obj/mega328_MK-328/main.o
+                0x00800158                ref_mv
+ .bss._trans    0x0080015a        0x2 ../Obj/mega328_MK-328/main.o
+                0x0080015a                _trans
+ .bss.ntrans    0x0080015c       0x10 ../Obj/mega328_MK-328/main.o
+                0x0080015c                ntrans
+ .bss.ptrans    0x0080016c       0x10 ../Obj/mega328_MK-328/main.o
+                0x0080016c                ptrans
+ .bss.diode_sequence
+                0x0080017c        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080017c                diode_sequence
+ .bss.NumOfDiodes
+                0x0080017d        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080017d                NumOfDiodes
+ .bss.diodes    0x0080017e       0x18 ../Obj/mega328_MK-328/main.o
+                0x0080017e                diodes
+ .bss.inductor_lpre
+                0x00800196        0x1 ../Obj/mega328_MK-328/main.o
+                0x00800196                inductor_lpre
+ .bss.inductor_lx
+                0x00800197        0x4 ../Obj/mega328_MK-328/main.o
+                0x00800197                inductor_lx
+ .bss.ResistorsFound
+                0x0080019b        0x1 ../Obj/mega328_MK-328/main.o
+                0x0080019b                ResistorsFound
+ .bss.ResistorChecked
+                0x0080019c        0x3 ../Obj/mega328_MK-328/main.o
+                0x0080019c                ResistorChecked
+ .bss.ResistorList
+                0x0080019f        0x3 ../Obj/mega328_MK-328/main.o
+                0x0080019f                ResistorList
+ .bss.ResistorVal
+                0x008001a2        0xc ../Obj/mega328_MK-328/main.o
+                0x008001a2                ResistorVal
+ .bss.lc_cpartmp
+                0x008001ae        0x2 ../Obj/mega328_MK-328/sampling_lc.o
+                0x008001ae                lc_cpartmp
+ .bss.lc_lx     0x008001b0        0x4 ../Obj/mega328_MK-328/sampling_lc.o
+                0x008001b0                lc_lx
+ .bss.lc_qx     0x008001b4        0x2 ../Obj/mega328_MK-328/sampling_lc.o
+                0x008001b4                lc_qx
+ .bss.lc_fx     0x008001b6        0x4 ../Obj/mega328_MK-328/sampling_lc.o
+                0x008001b6                lc_fx
+ *(COMMON)
+                0x008001ba                        PROVIDE (__bss_end = .)
+                0x00006fe2                        __data_load_start = LOADADDR (.data)
+                0x00006fe2                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001ba        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x008001ba                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                0x00000000                        __flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0
+                0x00000000                        __flmap = DEFINED (__flmap)?__flmap:0x0
+
+.eeprom         0x00810000       0x2e
+ *(.eeprom*)
+ .eeprom        0x00810000       0x2c ../Obj/mega328_MK-328/main.o
+                0x00810000                EE_Volume_Value
+                0x00810001                EE_ESR_ZEROtab
+                0x00810005                big_cap_corr
+                0x00810006                c_zero_tab2_hi
+                0x00810014                c_zero_tab2_lo
+                0x00810022                c_zero_tab
+                0x00810029                ref_offset
+                0x0081002b                RefDiff
+ .eeprom        0x0081002c        0x2 ../Obj/mega328_MK-328/sampling_lc.o
+                0x0081002c                lc_cpar_ee
+                0x0081002e                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x12
+ *(.comment)
+ .comment       0x00000000       0x12 ../Obj/mega328_MK-328/lcd-routines.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/DisplayValue.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/lcd-draw.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/wait_for_key_ms.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/main.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/Battery_check.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/CheckPins.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/GetResistance.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/ChargePin10ms.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/EntladePins.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/ReadCapacity.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/Calibrate_UR.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/show_Resis_Cap.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/ReadInductance.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/GetVloss.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/function_menu.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/message_key_released.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/GetFrequency.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/ReadBigCap.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/ShowData.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/EE_check_init.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/sampling_cap.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 ../Obj/mega328_MK-328/sampling_lc.o
+                                 0x13 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x890
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+ .debug_aranges
+                0x00000020      0x118 ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_aranges
+                0x00000138       0x20 ../Obj/mega328_MK-328/i2lcd.o
+ .debug_aranges
+                0x00000158       0x20 ../Obj/mega328_MK-328/PinLayout.o
+ .debug_aranges
+                0x00000178       0x20 ../Obj/mega328_MK-328/RvalOut.o
+ .debug_aranges
+                0x00000198       0x20 ../Obj/mega328_MK-328/UfAusgabe.o
+ .debug_aranges
+                0x000001b8       0x38 ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_aranges
+                0x000001f0       0x28 ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_aranges
+                0x00000218       0x20 ../Obj/mega328_MK-328/swuart.o
+ .debug_aranges
+                0x00000238       0x20 ../Obj/mega328_MK-328/wait1000ms.o
+ .debug_aranges
+                0x00000258       0x20 ../Obj/mega328_MK-328/sleep_5ms.o
+ .debug_aranges
+                0x00000278       0x20 ../Obj/mega328_MK-328/ReadADC.o
+ .debug_aranges
+                0x00000298       0x28 ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_aranges
+                0x000002c0       0x20 ../Obj/mega328_MK-328/RefVoltage.o
+ .debug_aranges
+                0x000002e0       0x70 ../Obj/mega328_MK-328/main.o
+ .debug_aranges
+                0x00000350       0x20 ../Obj/mega328_MK-328/Battery_check.o
+ .debug_aranges
+                0x00000370       0x28 ../Obj/mega328_MK-328/CheckPins.o
+ .debug_aranges
+                0x00000398       0x20 ../Obj/mega328_MK-328/GetResistance.o
+ .debug_aranges
+                0x000003b8       0x20 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_aranges
+                0x000003d8       0x20 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_aranges
+                0x000003f8       0x38 ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_aranges
+                0x00000430       0x20 ../Obj/mega328_MK-328/GetRLmultip.o
+ .debug_aranges
+                0x00000450       0x20 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_aranges
+                0x00000470       0x48 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_aranges
+                0x000004b8       0x20 ../Obj/mega328_MK-328/get_log.o
+ .debug_aranges
+                0x000004d8       0x20 ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_aranges
+                0x000004f8       0x20 ../Obj/mega328_MK-328/GetESR.o
+ .debug_aranges
+                0x00000518       0x20 ../Obj/mega328_MK-328/GetVloss.o
+ .debug_aranges
+                0x00000538       0x58 ../Obj/mega328_MK-328/function_menu.o
+ .debug_aranges
+                0x00000590       0x20 ../Obj/mega328_MK-328/message_key_released.o
+ .debug_aranges
+                0x000005b0       0x40 ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_aranges
+                0x000005f0       0x20 ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_aranges
+                0x00000610       0x20 ../Obj/mega328_MK-328/ShowData.o
+ .debug_aranges
+                0x00000630       0x20 ../Obj/mega328_MK-328/EE_check_init.o
+ .debug_aranges
+                0x00000650       0x30 ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_aranges
+                0x00000680       0x30 ../Obj/mega328_MK-328/sampling_lc.o
+ .debug_aranges
+                0x000006b0       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x000006d0       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x000006f0       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_aranges
+                0x00000710       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000730       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x00000750       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000770       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000790       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x000007b0       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_aranges
+                0x000007d0       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x000007f0       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_aranges
+                0x00000810       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000830       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_aranges
+                0x00000850       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .debug_aranges
+                0x00000870       0x20 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xcd95
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_info    0x000005f4       0x26 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+ .debug_info    0x0000061a     0x1365 ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_info    0x0000197f       0x26 ../Obj/mega328_MK-328/i2lcd.o
+ .debug_info    0x000019a5       0x26 ../Obj/mega328_MK-328/PinLayout.o
+ .debug_info    0x000019cb       0x26 ../Obj/mega328_MK-328/RvalOut.o
+ .debug_info    0x000019f1       0x26 ../Obj/mega328_MK-328/UfAusgabe.o
+ .debug_info    0x00001a17      0x610 ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_info    0x00002027      0x320 ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_info    0x00002347       0x26 ../Obj/mega328_MK-328/swuart.o
+ .debug_info    0x0000236d       0x26 ../Obj/mega328_MK-328/wait1000ms.o
+ .debug_info    0x00002393       0x26 ../Obj/mega328_MK-328/sleep_5ms.o
+ .debug_info    0x000023b9       0x26 ../Obj/mega328_MK-328/ReadADC.o
+ .debug_info    0x000023df      0x25d ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_info    0x0000263c       0x26 ../Obj/mega328_MK-328/RefVoltage.o
+ .debug_info    0x00002662     0x3905 ../Obj/mega328_MK-328/main.o
+ .debug_info    0x00005f67      0x283 ../Obj/mega328_MK-328/Battery_check.o
+ .debug_info    0x000061ea     0x12d6 ../Obj/mega328_MK-328/CheckPins.o
+ .debug_info    0x000074c0      0x733 ../Obj/mega328_MK-328/GetResistance.o
+ .debug_info    0x00007bf3       0xdc ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_info    0x00007ccf      0x1e9 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_info    0x00007eb8      0x687 ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_info    0x0000853f       0x26 ../Obj/mega328_MK-328/GetRLmultip.o
+ .debug_info    0x00008565      0x2f8 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_info    0x0000885d      0xc44 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_info    0x000094a1       0x26 ../Obj/mega328_MK-328/get_log.o
+ .debug_info    0x000094c7      0x53e ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_info    0x00009a05       0x26 ../Obj/mega328_MK-328/GetESR.o
+ .debug_info    0x00009a2b      0x36f ../Obj/mega328_MK-328/GetVloss.o
+ .debug_info    0x00009d9a      0xcf6 ../Obj/mega328_MK-328/function_menu.o
+ .debug_info    0x0000aa90      0x13d ../Obj/mega328_MK-328/message_key_released.o
+ .debug_info    0x0000abcd      0x450 ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_info    0x0000b01d      0x428 ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_info    0x0000b445      0x6c4 ../Obj/mega328_MK-328/ShowData.o
+ .debug_info    0x0000bb09       0x8e ../Obj/mega328_MK-328/EE_check_init.o
+ .debug_info    0x0000bb97      0x6f9 ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_info    0x0000c290      0x8e9 ../Obj/mega328_MK-328/sampling_lc.o
+ .debug_info    0x0000cb79       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_info    0x0000cb9d       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_info    0x0000cbc1       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_info    0x0000cbe5       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000cc09       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_info    0x0000cc2d       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_info    0x0000cc51       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_info    0x0000cc75       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_info    0x0000cc99       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_info    0x0000ccbd       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x0000cce1       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_info    0x0000cd05       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_info    0x0000cd29       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_info    0x0000cd4d       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .debug_info    0x0000cd71       0x24 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+
+.debug_abbrev   0x00000000     0x2fdc
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2       0x14 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+ .debug_abbrev  0x000005b6      0x336 ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_abbrev  0x000008ec       0x14 ../Obj/mega328_MK-328/i2lcd.o
+ .debug_abbrev  0x00000900       0x14 ../Obj/mega328_MK-328/PinLayout.o
+ .debug_abbrev  0x00000914       0x14 ../Obj/mega328_MK-328/RvalOut.o
+ .debug_abbrev  0x00000928       0x14 ../Obj/mega328_MK-328/UfAusgabe.o
+ .debug_abbrev  0x0000093c      0x226 ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_abbrev  0x00000b62      0x174 ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_abbrev  0x00000cd6       0x14 ../Obj/mega328_MK-328/swuart.o
+ .debug_abbrev  0x00000cea       0x14 ../Obj/mega328_MK-328/wait1000ms.o
+ .debug_abbrev  0x00000cfe       0x14 ../Obj/mega328_MK-328/sleep_5ms.o
+ .debug_abbrev  0x00000d12       0x14 ../Obj/mega328_MK-328/ReadADC.o
+ .debug_abbrev  0x00000d26      0x14d ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_abbrev  0x00000e73       0x14 ../Obj/mega328_MK-328/RefVoltage.o
+ .debug_abbrev  0x00000e87      0x406 ../Obj/mega328_MK-328/main.o
+ .debug_abbrev  0x0000128d      0x117 ../Obj/mega328_MK-328/Battery_check.o
+ .debug_abbrev  0x000013a4      0x216 ../Obj/mega328_MK-328/CheckPins.o
+ .debug_abbrev  0x000015ba      0x1cd ../Obj/mega328_MK-328/GetResistance.o
+ .debug_abbrev  0x00001787       0x8c ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_abbrev  0x00001813       0xe3 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_abbrev  0x000018f6      0x1f6 ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_abbrev  0x00001aec       0x14 ../Obj/mega328_MK-328/GetRLmultip.o
+ .debug_abbrev  0x00001b00      0x102 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_abbrev  0x00001c02      0x28f ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_abbrev  0x00001e91       0x14 ../Obj/mega328_MK-328/get_log.o
+ .debug_abbrev  0x00001ea5      0x1b0 ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_abbrev  0x00002055       0x14 ../Obj/mega328_MK-328/GetESR.o
+ .debug_abbrev  0x00002069      0x186 ../Obj/mega328_MK-328/GetVloss.o
+ .debug_abbrev  0x000021ef      0x28c ../Obj/mega328_MK-328/function_menu.o
+ .debug_abbrev  0x0000247b       0xf8 ../Obj/mega328_MK-328/message_key_released.o
+ .debug_abbrev  0x00002573      0x1bb ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_abbrev  0x0000272e      0x1b5 ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_abbrev  0x000028e3      0x131 ../Obj/mega328_MK-328/ShowData.o
+ .debug_abbrev  0x00002a14       0x46 ../Obj/mega328_MK-328/EE_check_init.o
+ .debug_abbrev  0x00002a5a      0x1f3 ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_abbrev  0x00002c4d      0x263 ../Obj/mega328_MK-328/sampling_lc.o
+ .debug_abbrev  0x00002eb0       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x00002ec4       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x00002ed8       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_abbrev  0x00002eec       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00002f00       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00002f14       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00002f28       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00002f3c       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_abbrev  0x00002f50       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x00002f64       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00002f78       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_abbrev  0x00002f8c       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x00002fa0       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_abbrev  0x00002fb4       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .debug_abbrev  0x00002fc8       0x14 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+
+.debug_line     0x00000000    0x11013
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_line    0x0000001d      0x1a2 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+ .debug_line    0x000001bf     0x113f ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_line    0x000012fe       0xd4 ../Obj/mega328_MK-328/i2lcd.o
+ .debug_line    0x000013d2      0x254 ../Obj/mega328_MK-328/PinLayout.o
+ .debug_line    0x00001626      0x106 ../Obj/mega328_MK-328/RvalOut.o
+ .debug_line    0x0000172c      0x264 ../Obj/mega328_MK-328/UfAusgabe.o
+ .debug_line    0x00001990      0x7b6 ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_line    0x00002146      0x19c ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_line    0x000022e2       0xa5 ../Obj/mega328_MK-328/swuart.o
+ .debug_line    0x00002387      0x116 ../Obj/mega328_MK-328/wait1000ms.o
+ .debug_line    0x0000249d      0x126 ../Obj/mega328_MK-328/sleep_5ms.o
+ .debug_line    0x000025c3      0x269 ../Obj/mega328_MK-328/ReadADC.o
+ .debug_line    0x0000282c      0x33a ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_line    0x00002b66      0x1c3 ../Obj/mega328_MK-328/RefVoltage.o
+ .debug_line    0x00002d29     0x2ed7 ../Obj/mega328_MK-328/main.o
+ .debug_line    0x00005c00      0x20d ../Obj/mega328_MK-328/Battery_check.o
+ .debug_line    0x00005e0d     0x24a4 ../Obj/mega328_MK-328/CheckPins.o
+ .debug_line    0x000082b1      0xa2e ../Obj/mega328_MK-328/GetResistance.o
+ .debug_line    0x00008cdf      0x146 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_line    0x00008e25      0x433 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_line    0x00009258      0xd21 ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_line    0x00009f79      0x140 ../Obj/mega328_MK-328/GetRLmultip.o
+ .debug_line    0x0000a0b9      0x4f3 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_line    0x0000a5ac      0x7aa ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_line    0x0000ad56       0xfa ../Obj/mega328_MK-328/get_log.o
+ .debug_line    0x0000ae50      0xac7 ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_line    0x0000b917      0x8aa ../Obj/mega328_MK-328/GetESR.o
+ .debug_line    0x0000c1c1      0x4a9 ../Obj/mega328_MK-328/GetVloss.o
+ .debug_line    0x0000c66a     0x16dc ../Obj/mega328_MK-328/function_menu.o
+ .debug_line    0x0000dd46      0x151 ../Obj/mega328_MK-328/message_key_released.o
+ .debug_line    0x0000de97      0x85f ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_line    0x0000e6f6      0x68b ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_line    0x0000ed81      0x41c ../Obj/mega328_MK-328/ShowData.o
+ .debug_line    0x0000f19d       0x48 ../Obj/mega328_MK-328/EE_check_init.o
+ .debug_line    0x0000f1e5      0x761 ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_line    0x0000f946      0xd82 ../Obj/mega328_MK-328/sampling_lc.o
+ .debug_line    0x000106c8       0x9f /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line    0x00010767       0x9f /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_line    0x00010806       0x8d /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_line    0x00010893       0xbd /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00010950       0xb7 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+ .debug_line    0x00010a07      0x111 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00010b18       0xbd /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_line    0x00010bd5       0x51 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+ .debug_line    0x00010c26       0x69 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_line    0x00010c8f       0x75 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x00010d04       0x69 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_line    0x00010d6d       0x81 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line    0x00010dee       0xed /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+ .debug_line    0x00010edb       0xe7 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+ .debug_line    0x00010fc2       0x51 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+
+.debug_frame    0x00000000      0xcac
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2b0 ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_frame   0x000002b0       0x90 ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_frame   0x00000340       0x40 ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_frame   0x00000380       0x5c ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_frame   0x000003dc      0x150 ../Obj/mega328_MK-328/main.o
+ .debug_frame   0x0000052c       0x38 ../Obj/mega328_MK-328/Battery_check.o
+ .debug_frame   0x00000564       0x5c ../Obj/mega328_MK-328/CheckPins.o
+ .debug_frame   0x000005c0       0x48 ../Obj/mega328_MK-328/GetResistance.o
+ .debug_frame   0x00000608       0x2c ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_frame   0x00000634       0x38 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_frame   0x0000066c       0x88 ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_frame   0x000006f4       0x40 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_frame   0x00000734       0xc8 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_frame   0x000007fc       0x4c ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_frame   0x00000848       0x48 ../Obj/mega328_MK-328/GetVloss.o
+ .debug_frame   0x00000890      0x110 ../Obj/mega328_MK-328/function_menu.o
+ .debug_frame   0x000009a0       0x30 ../Obj/mega328_MK-328/message_key_released.o
+ .debug_frame   0x000009d0       0xac ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_frame   0x00000a7c       0x38 ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_frame   0x00000ab4       0x48 ../Obj/mega328_MK-328/ShowData.o
+ .debug_frame   0x00000afc       0x24 ../Obj/mega328_MK-328/EE_check_init.o
+ .debug_frame   0x00000b20       0xe8 ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_frame   0x00000c08       0xa4 ../Obj/mega328_MK-328/sampling_lc.o
+
+.debug_str      0x00000000     0x1c7f
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x1a77 ../Obj/mega328_MK-328/lcd_hw_4_bit.o
+                                 0x83 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/lcd-routines.o
+                                0x5c6 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/i2lcd.o
+                                 0x7c (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/PinLayout.o
+                                 0x80 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/RvalOut.o
+                                 0x7e (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/UfAusgabe.o
+                                 0x80 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/DisplayValue.o
+                                0x303 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/lcd-draw.o
+                                0x2a5 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/swuart.o
+                                 0x7d (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/wait1000ms.o
+                                 0x81 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/sleep_5ms.o
+                                 0x80 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/ReadADC.o
+                                 0x7e (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/wait_for_key_ms.o
+                                0x2b8 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/RefVoltage.o
+                                 0x81 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/main.o
+                                0xf6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/Battery_check.o
+                                0x2ad (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/CheckPins.o
+                                0x442 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/GetResistance.o
+                                0x3cf (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/ChargePin10ms.o
+                                0x218 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/EntladePins.o
+                                0x246 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/ReadCapacity.o
+                                0x456 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/GetRLmultip.o
+                                 0x82 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/Calibrate_UR.o
+                                0x2d3 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/show_Resis_Cap.o
+                                0x554 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/get_log.o
+                                 0x7e (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/ReadInductance.o
+                                0x3a0 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/GetESR.o
+                                 0x7d (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/GetVloss.o
+                                0x2cc (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/function_menu.o
+                                0x5bd (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/message_key_released.o
+                                0x23a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/GetFrequency.o
+                                0x327 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/ReadBigCap.o
+                                0x32d (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/ShowData.o
+                                0x37a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/EE_check_init.o
+                                0x1e9 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/sampling_cap.o
+                                0x394 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 ../Obj/mega328_MK-328/sampling_lc.o
+                                0x432 (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+                                 0x6a (size before relaxing)
+ .debug_str     0x00001c7f        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+                                 0x6a (size before relaxing)
+
+.debug_loc      0x00000000     0x8d9a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xd26 ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_loc     0x00000d26      0x69c ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_loc     0x000013c2      0x16e ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_loc     0x00001530      0x1c8 ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_loc     0x000016f8      0xe7b ../Obj/mega328_MK-328/main.o
+ .debug_loc     0x00002573       0xb5 ../Obj/mega328_MK-328/Battery_check.o
+ .debug_loc     0x00002628     0x220f ../Obj/mega328_MK-328/CheckPins.o
+ .debug_loc     0x00004837      0xa59 ../Obj/mega328_MK-328/GetResistance.o
+ .debug_loc     0x00005290       0xa2 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_loc     0x00005332      0x246 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_loc     0x00005578      0x38b ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_loc     0x00005903       0x94 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_loc     0x00005997      0x437 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_loc     0x00005dce      0x508 ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_loc     0x000062d6      0x299 ../Obj/mega328_MK-328/GetVloss.o
+ .debug_loc     0x0000656f      0xc8f ../Obj/mega328_MK-328/function_menu.o
+ .debug_loc     0x000071fe       0xbd ../Obj/mega328_MK-328/message_key_released.o
+ .debug_loc     0x000072bb      0x42b ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_loc     0x000076e6      0x206 ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_loc     0x000078ec      0x128 ../Obj/mega328_MK-328/ShowData.o
+ .debug_loc     0x00007a14      0x7fb ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_loc     0x0000820f      0xb8b ../Obj/mega328_MK-328/sampling_lc.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x548
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x108 ../Obj/mega328_MK-328/lcd-routines.o
+ .debug_ranges  0x00000108       0x28 ../Obj/mega328_MK-328/DisplayValue.o
+ .debug_ranges  0x00000130       0x18 ../Obj/mega328_MK-328/lcd-draw.o
+ .debug_ranges  0x00000148       0x18 ../Obj/mega328_MK-328/wait_for_key_ms.o
+ .debug_ranges  0x00000160       0xc0 ../Obj/mega328_MK-328/main.o
+ .debug_ranges  0x00000220       0x10 ../Obj/mega328_MK-328/Battery_check.o
+ .debug_ranges  0x00000230       0x60 ../Obj/mega328_MK-328/CheckPins.o
+ .debug_ranges  0x00000290       0x58 ../Obj/mega328_MK-328/GetResistance.o
+ .debug_ranges  0x000002e8       0x10 ../Obj/mega328_MK-328/ChargePin10ms.o
+ .debug_ranges  0x000002f8       0x10 ../Obj/mega328_MK-328/EntladePins.o
+ .debug_ranges  0x00000308       0x28 ../Obj/mega328_MK-328/ReadCapacity.o
+ .debug_ranges  0x00000330       0x10 ../Obj/mega328_MK-328/Calibrate_UR.o
+ .debug_ranges  0x00000340       0x38 ../Obj/mega328_MK-328/show_Resis_Cap.o
+ .debug_ranges  0x00000378       0x10 ../Obj/mega328_MK-328/ReadInductance.o
+ .debug_ranges  0x00000388       0x10 ../Obj/mega328_MK-328/GetVloss.o
+ .debug_ranges  0x00000398       0x98 ../Obj/mega328_MK-328/function_menu.o
+ .debug_ranges  0x00000430       0x10 ../Obj/mega328_MK-328/message_key_released.o
+ .debug_ranges  0x00000440       0x30 ../Obj/mega328_MK-328/GetFrequency.o
+ .debug_ranges  0x00000470       0x10 ../Obj/mega328_MK-328/ReadBigCap.o
+ .debug_ranges  0x00000480       0x10 ../Obj/mega328_MK-328/ShowData.o
+ .debug_ranges  0x00000490       0x10 ../Obj/mega328_MK-328/EE_check_init.o
+ .debug_ranges  0x000004a0       0x68 ../Obj/mega328_MK-328/sampling_cap.o
+ .debug_ranges  0x00000508       0x40 ../Obj/mega328_MK-328/sampling_lc.o
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0x5c
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0x5c /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_mulsi3.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodqi4.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodhi4.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodhi4.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_udivmodsi4.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_divmodsi4.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_negsi2.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_tablejump2.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_clear_bss.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_usmulhisi3.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_muluhisi3.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_prologue.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_epilogue.o)
+                                 0x5c (size before relaxing)
+ .debug_line_str
+                0x0000005c        0x0 /home/nvd/cloud/software/compilers/avr/avr-gcc-16.1.0-x64-linux/bin/../lib/gcc/avr/16.1.0/avr5/libgcc.a(_exit.o)
+                                 0x5c (size before relaxing)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(../Obj/mega328_MK-328/mega328_MK-328.elf elf32-avr)
+LOAD linker stubs
