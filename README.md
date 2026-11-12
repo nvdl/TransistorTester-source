@@ -1,5 +1,6 @@
 # About this fork
-As of now, this fork target MK-328 tester specifically.
+As of now, this fork targets MK-328 tester specifically.
+This is work in progress and the firmware for MK-328 tester has not been finalized.
 
 # MK-328 Tester
 ![mk-328-1](images/mk-328-1.jpg?raw=true "MK-328-1")
