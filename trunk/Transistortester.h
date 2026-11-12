@@ -9,7 +9,7 @@
 #include <string.h>
 #include <util/delay.h>
 
-#include "config.h" /* part_defs.h lcd_defines.h font.h autoconf.h */
+#include "config.h"
 #include "tt_function.h"
 #include "tt_globals.h"
 #include "tt_resistor.h"
@@ -21,7 +21,6 @@ Time constant is  T = R * C ; also
 C = T / R
 for the resistor 470 kOhm  is C = t / (0.3011 * 470000)
 H_Fakt = 707/100 for a result in pF units.
-
 */
 
 // Big Capacities (>50�F) are measured with up to 500 load-pulses with the 680
@@ -136,6 +135,7 @@ const uint16_t RHtab[] PROGMEM = {
     31775210. / R_H_VAL + 0.5,  // 1350 mV
     30441023. / R_H_VAL + 0.5   // 1400 mV
 };
+
 // these values are 1e7/R_H_VAL/-ln(1-ref/5000)   (note that R_H_VAL is in
 // multiples of 10 ohm) the +0.5 is for rounding
 
@@ -148,8 +148,7 @@ const uint16_t RHtab[] PROGMEM = {
 End of configuration
 */
 
-/*Strings in PROGMEM or in EEprom
- */
+// Strings in PROGMEM or in EEPROM.
 #include "langBRASIL.h"
 #include "langCZECH.h"
 #include "langDANISH.h"
@@ -168,80 +167,94 @@ End of configuration
 
 // All languages must be placed before the english text.
 // If none is actually selected, LANG_SELECTED is not set.
-#ifndef LANG_SELECTED  // default language is english
+#ifndef LANG_SELECTED  // Default language is English.
 const unsigned char TestRunning[] MEM_TEXT = "Testing.";
 const unsigned char BatWeak[] MEM_TEXT = "weak";
 const unsigned char BatEmpty[] MEM_TEXT = "empty";
 const unsigned char TestFailed2[] MEM_TEXT = "damaged ";
 const unsigned char Bauteil[] MEM_TEXT = "part";
-//   const unsigned char Diode[] MEM_TEXT = "Diode: ";
+// const unsigned char Diode[] MEM_TEXT = "Diode: ";
 const unsigned char Triac[] MEM_TEXT = "Triac";
 const unsigned char Thyristor[] MEM_TEXT = "Thyrist.";
 const unsigned char Unknown[] MEM_TEXT = " unknown";
 const unsigned char TestFailed1[] MEM_TEXT = "No, unknown, or";
 const unsigned char Detected[] MEM_TEXT = " detected";
 const unsigned char TestTimedOut[] MEM_TEXT = "Timeout";
+
 #define Cathode_char 'C'
+
 #ifdef WITH_SELFTEST
 const unsigned char SELFTEST[] MEM_TEXT = "Selftest mode";
 const unsigned char RELPROBE[] MEM_TEXT = "Separate all the probes";
 const unsigned char ATE[] MEM_TEXT = "End of test";
 #endif
+
 #ifdef WITH_MENU
 const unsigned char SELECTION_str[] MEM2_TEXT = "Menu:";
 const unsigned char TESTER_str[] MEM2_TEXT = "Transistor";
 const unsigned char VOLTAGE_str[] MEM2_TEXT = "Voltage";
-const unsigned char SHOW_str[] MEM2_TEXT = "Show data";  // "Show data"
+const unsigned char SHOW_str[] MEM2_TEXT = "Show data";
 const unsigned char OFF_str[] MEM2_TEXT = "Switch off";
 const unsigned char F_GEN_str[] MEM2_TEXT = "F-Generator";
+
 #ifdef PWM_SERVO
 const unsigned char PWM_10bit_str[] MEM2_TEXT = "Servo PWM";
 #else
 const unsigned char PWM_10bit_str[] MEM2_TEXT = "PWM";
 #endif
+
 #ifdef WITH_ROTARY_CHECK
 const unsigned char RotaryEncoder_str[] MEM2_TEXT = "rotary encoder";
 #endif
+
 const unsigned char SetCapCorr_str[] MEM2_TEXT = {
     'C', '(', LCD_CHAR_U, 'F', ')', 'c', 'o', 'r',
     'r', 'e', 'c',        't', 'i', 'o', 'n', 0};
+
 const unsigned char TURN_str[] MEM2_TEXT = "turn!";
 const unsigned char FULLCHECK_str[] MEM2_TEXT = "Selftest";
 const unsigned char SHORT_PROBES_str[] MEM2_TEXT = "Short all the probes";
+
 #ifndef NO_FREQ_COUNTER
 const unsigned char FREQ_str[] MEM2_TEXT = "Frequency";
 #ifdef WITH_FREQUENCY_DIVIDER
 const unsigned char FScaler_str[] MEM2_TEXT = "F-Scaler";
 #endif
 #endif
+
 #if (WITH_FREQUENCY_SWITCH == 1)
 const unsigned char HFREQ_str[] MEM2_TEXT = "Frequency > 2MHz";
 const unsigned char H_CRYSTAL_str[] MEM2_TEXT = "HF quartz";
 const unsigned char L_CRYSTAL_str[] MEM2_TEXT = "LF quartz";
 #endif
+
 #if ((LCD_ST_TYPE == 7565) || (LCD_ST_TYPE == 1306) || \
      (LCD_ST_TYPE == 8812) || (LCD_ST_TYPE == 8814) || defined(LCD_DOGM))
 const unsigned char CONTRAST_str[] MEM2_TEXT = "Contrast";
 #endif
 #endif /* WITH_MENU */
+
 #ifdef WITH_XTAL
 const unsigned char cerres_str[] MEM_TEXT = "Cer.resonator  ";
 const unsigned char xtal_str[] MEM_TEXT = "Crystal  ";
 #endif
-#endif /* default LANG ENGLISH */
+#endif /* LANG_SELECTED */
 
 // Strings, which are not dependent of any language
 const unsigned char Bat_str[] MEM_TEXT = "Battery: ";
 const unsigned char OK_str[] MEM_TEXT = "OK";
+
 #if FLASHEND > 0x1fff
 #ifndef DC_PWR_TEXT
 #define DC_PWR_TEXT "DC Pwr Mode"
 #endif
 const unsigned char DC_Pwr_Mode_str[] MEM_TEXT = DC_PWR_TEXT;
 #endif
+
 const unsigned char mosfet_str[] MEM_TEXT = "-MOS";
 const unsigned char jfet_str[] MEM_TEXT = "JFET";
 const unsigned char igbt_str[] MEM_TEXT = "-IGBT";
+
 #if ((!defined(WITH_GRAPHICS) && (LCD_LINE_LENGTH > 17)) || \
      (defined(WITH_GRAPHICS) && (LOW_H_SPACE != 1)))
 const unsigned char hfe_str[] MEM_TEXT = "hFE=";
@@ -254,7 +267,9 @@ const unsigned char hfe_str[] MEM_TEXT = "B=";
 #endif
 const unsigned char GateCap_str[] MEM_TEXT = "C=";
 #endif
+
 const unsigned char Cap_str[] MEM_TEXT = "C=";
+
 #ifdef WITH_GRAPHICS
 const unsigned char NPN_str[] MEM_TEXT = "BJT-NPN";
 const unsigned char PNP_str[] MEM_TEXT = "BJT-PNP";
@@ -266,6 +281,7 @@ const unsigned char PNP_str[] MEM_TEXT = "PNP";
 #ifdef WITH_GRAPHICS
 const unsigned char Pin_str[] MEM_TEXT = "Pin ";
 #endif
+
 #ifndef EBC_STYLE
 // default is the 123= style
 const unsigned char N123_str[] MEM_TEXT = {
@@ -286,8 +302,10 @@ const unsigned char Ube_str[] MEM_TEXT = "Ube=";
 const unsigned char Uf_str[] MEM_TEXT = "Uf=";
 const unsigned char vt_str[] MEM_TEXT = " Vt=";
 const unsigned char Vgs_str[] MEM_TEXT = "@Vg=";
+
 const unsigned char CapZeich[] MEM_TEXT = {LCD_CHAR_LINE1, LCD_CHAR_CAP,
                                            LCD_CHAR_LINE1, 0};
+
 const unsigned char Cell_str[] MEM_TEXT = "Cell!";
 const unsigned char VCC_str[] MEM_TEXT = "VCC=";
 
@@ -295,6 +313,7 @@ const unsigned char VCC_str[] MEM_TEXT = "VCC=";
 const unsigned char ESR_str[] MEM_TEXT = " ESR=";
 const unsigned char VLOSS_str[] MEM_TEXT = " Vloss=";
 const unsigned char Lis_str[] MEM_TEXT = "L=";
+
 #if (LCD_LINES > 3)
 const unsigned char Ir_str[] MEM_TEXT = "Ir=";
 #else
